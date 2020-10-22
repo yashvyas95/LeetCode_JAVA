@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode-15">
-      <change afterPath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/File/FileConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Threads/ComplexCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Threads/ThreadConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/sum_3/Sum3.java" afterDir="false" />
+    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git_LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Git_LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/NumeralsRoman/NumeralsRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/NumeralsRoman/NumeralsRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RomanNumerals/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RomanNumerals/RomanNumerals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isMatch/isMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isMatch/isMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/NumeralsRoman/NumeralsRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/NumeralsRoman/NumeralsRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="118" column="1" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
+            <state relative-caret-position="250">
+              <caret line="118" column="29" selection-start-line="118" selection-start-column="29" selection-end-line="118" selection-end-column="29" />
               <folding>
                 <element signature="e#1483#2603#0" />
               </folding>
@@ -111,7 +100,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="872" />
     <option name="y" value="-9" />
     <option name="width" value="1058" />
@@ -342,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600464887741</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS">
+      <created>1603242537043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603242537043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -378,26 +374,25 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="-7" width="846" height="872" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info id="Structure" order="0" sideWeight="0.353167" side_tool="true" visible="true" weight="0.19847329" />
+      <window_info id="Structure" order="0" sideWeight="0.35329342" side_tool="true" visible="true" weight="0.10469799" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.646833" visible="true" weight="0.19847329" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.6467066" visible="true" weight="0.10469799" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.29594594" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.2935657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44772118" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2546917" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.36729223" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32841823" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32707775" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -442,7 +437,8 @@
     <MESSAGE value="Git_LeetCode_Branch_Init" />
     <MESSAGE value="LeetCode-13" />
     <MESSAGE value="LeetCode-15" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-15" />
+    <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -485,21 +481,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>58</line>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>57</line>
+          <line>58</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>72</line>
+          <line>73</line>
           <properties />
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -746,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="118" column="1" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
+        <state relative-caret-position="250">
+          <caret line="118" column="29" selection-start-line="118" selection-start-column="29" selection-end-line="118" selection-end-column="29" />
           <folding>
             <element signature="e#1483#2603#0" />
           </folding>

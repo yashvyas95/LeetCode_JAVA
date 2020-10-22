@@ -1,5 +1,6 @@
 package com.Cerification.Questions;
 
+import java.io.BufferedWriter;
 import java.util.*;
 import java.sql.*;
 
@@ -108,12 +109,26 @@ public class Questions {
     //public void doit(){}
    // public static int doit(){return 0;}
    // public Integer doit(){return 10;}
-
+    public static void main(String[] args){
+        int x = 4;
+        StringBuffer sb = new StringBuffer("..fedcba");
+        sb.delete(3,6);
+        sb.insert(3,"az");
+        if(sb.length() > 6) x = sb.indexOf("b");
+        sb.delete((x-3),(x-2));
+        System.out.println(sb);
+    }
 }
+/*
 public class A{
     private int counter = 0;
     public static int getCount()
     {
-
+        return counter;
     }
+    public A(){counter++;}
 }
+
+ */
+
+
