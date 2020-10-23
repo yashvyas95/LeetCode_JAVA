@@ -1,8 +1,10 @@
 package com.Cerification.Questions;
 
+import java.util.function.*;
 import java.io.BufferedWriter;
 import java.util.*;
 import java.sql.*;
+import java.util.stream.Stream;
 
 /*
 public class Questions {
@@ -11,6 +13,14 @@ public class Questions {
 
 }
 
+public class A{
+    private int counter = 0;
+    public static int getCount()
+    {
+        return counter;
+    }
+    public A(){counter++;}
+}
 public class Questions {
     int birds = 10;
     public static void main(String args[]){
@@ -64,8 +74,7 @@ public class Questions{
 
 interface TestA{String tomethod();}
 */
-public class Questions {
-    /*
+ /*
     public static void main(String[] args){
        // System.out.println(Enum.Example.ONE == Example.ONE);
        //Enum.Example e = Enum.Example.ONE;
@@ -106,10 +115,12 @@ public class Questions {
             });
         }
 }*/
-    //public void doit(){}
-   // public static int doit(){return 0;}
-   // public Integer doit(){return 10;}
+//public void doit(){}
+// public static int doit(){return 0;}
+// public Integer doit(){return 10;}
+    /*
     public static void main(String[] args){
+
         int x = 4;
         StringBuffer sb = new StringBuffer("..fedcba");
         sb.delete(3,6);
@@ -118,17 +129,69 @@ public class Questions {
         sb.delete((x-3),(x-2));
         System.out.println(sb);
     }
-}
-/*
-public class A{
-    private int counter = 0;
-    public static int getCount()
-    {
-        return counter;
+
+     */
+public class Questions {
+
+    int age;
+    /*
+    private static void check(Questions questions, Predicate<Questions>pred){
+        String result = pred.test(questions) ? "True" : "False";
+        check((h,m)-> h.append(m).isEmpty(),5);
+        System.out.println(result);
     }
-    public A(){counter++;}
+
+     */
+    private static void check(Climb climb,int height){
+        ArrayList<Integer> l = new ArrayList<Integer>();
+
+        if(climb.isTooHigh(height,10))
+            System.out.println("TOO High");
+        else
+            System.out.println("OK");
+    }
+    static void append(int number){
+
+    }
+    /*
+    public static void main(String[] args){
+     //   Stream nums = Stream.of(1,2,3,4,5);
+     //      Questions p1 = new Questions();
+     //   p1.age = 1;
+     //   check(p1, p->p.age < 5);
+        check((h,m) -> h.append(m).isEmpty(),5);
+        ArrayList<String> l1 = new ArrayList<>();
+        l1.removeIf((e)->{"Poof"}
+        );
+        //l1.removeIf((s1,s2)->s1.isEmpty());
+    }
+
+     */
+    public static void main(String[] args){
+        List a = List.of(1,2,3);
+        Map  a2 = Map.of(1,2,3,4);
+        Set a3 = Set.of(1,2,3);
+        a.forEach(x-> System.out.println("LIST VALUES"+x));
+        a2.values().forEach(x-> System.out.println("MAP VALUES"+x));
+        a3.forEach(x-> System.out.println("SET VALUES"+x));
+    }
+    public void method(){
+        x((var x)->{},(var x , var y)->0);
+    }
+    public void x(Consumer<String>x,Comparator<Boolean>y){}
 }
 
- */
 
+class Panda{
+    int age;
+    private static void check(Panda panda, Predicate<Panda>pred){
+        String result = pred.test(panda) ? "True" : "False";
+        System.out.println(result);
+
+    }
+}
+
+interface Climb {
+    boolean isTooHigh(int height, int limit);
+}
 
