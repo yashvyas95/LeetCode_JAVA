@@ -318,17 +318,191 @@ public class Questions {
 }
      */
 
+    /*
     public final static void main(String... args){
-        int flavors = 30;
+        int x = 10, y = 5;
+        boolean w = true, z = false;
+        x = w ? y++ : y--;
+        w = !z;
+        System.out.println((x+y)+" "+(w?5:10));
+        /*
         int eaten = 0;
+
         switch(flavors){
             case 30: eaten++;
             case 40: eaten+=2;
             defualt: eaten--;
         }
         System.out.println("EATEN "+eaten);
+
+        public static String[] args = {"Bob","Logic"};
+    public static void main(String... args){
+        String bob = new String("ORIGINAL");
+        String notbob = bob;
+        System.out.println("Bob == Notbob "+ bob== notbob);
+        System.out.println(" Bob.equals(notbob) = "+bob.equals(notbob));
+        if(args.length >=1 && (args[0].equals("sound")) || args[0].equals("Logic")&& args.length<2){
+            System.out.println("Answer Line "+args[0]);
+        }
+        /*
+        []double lion;
+        double[] lion2;
+        double bear[];
+
+    public static void main(String... args){
+        Questions q = new Questions();
+        q.printName("Arlene");
+        q.printName(new String[]{"BRET"});
+     //   q.printNames("ARLENE");
+        q.printName(new String[]{"BRET2"});
+        int[][] doubleArray = new int[2][2];
+        System.out.println();
+        String[] numx = {"1","9","10"};
+        Arrays.sort(numx);
+        char[][] a = new char[3][3];
+        String[] lion = new String[]{"Lion"};
+        String[] lion3 = new String[]{};
+        [][] String aplha;
+        [] String beta;
+        String[][] gamma;
+        String[] delta;
+        String epiliso[][];
+        float[] lion2 = new[1] float;
+
+        System.out.println(Arrays.toString(numx));
+    }
+
+
+    static int[][] game = new int[6][6];
+    public static void main(String... args){
+        String[] days = {"Mac","Linux","Windows"};
+        boolean[][][] bools,morebools;
+        bools = new boolean[1][1][1];
+       // System.out.println(bools[1][1][1]);
+        String[] a = new String[2];
+        System.out.println(a);
+        //String... s = args;
+        game[3][3] = 2;
+        Object[] o = game;
+      //  o[3] = "X";
+      //  System.out.println(game[3][3]);
+        Arrays.sort(days);
+        System.out.println(Arrays.binarySearch(days,"RedHat"));
+        System.out.println(args[0]);
+    }
+
+
+    public static void main(String[] args){
+        int[] uums[]  = new int[2][1];
+        int[] nms[] = new int[][]{{0},{0}};
+        int[] nn[] = new int[][]{{0,0}};
+        System.out.println("Ss");
+    }
+
+     */
+/*
+    public static void main(String[] args){
+        String[] days = {"Sun","Mon","Tue","Wen","Thu","Fri","Sat"};
+        for (int o = 0 ; o <= days.length ; o++){
+            System.out.println(days[o]);
+        }
+        String[][] d = new String[2][2];
+        System.out.println(args.length);
+    }
+
+
+
+
+    static int[][] game;
+    public static void main(String[] args){
+        String[][] listing = new String[][] {{"Book"},{"Game","29.9"}};
+//        System.out.println(listing.length + " " + listing[0].length);
+        for(int i = 0 ; i < 3 ; i++){
+            System.out.println(i);
+            if(i == 1)
+                break;
+                System.out.println("In CONTINUE");
+
+        }
+
+    }
+
+    public static void main(String[] args){
+        List<String> drinks = Arrays.asList("can","cup");
+        for(int i = drinks.size()-1;i>=0;i--){
+            System.out.println(drinks.get(i));
+        }
+        String l = "";
+        while(l.length() != 2)
+            l+='a';
+        System.out.println(l);
+        for(int i  = args.length ; i>=0 ; i++){
+            System.out.println("args");
+        }
+
+    }
+
+ */
+    private static int counter;
+    private static String[] con = new String[]{"Washington","Monroe","C"};
+    /*
+    public static void main(String[] args) {
+        while (counter < con.length) {
+            if (con[counter++].length() < 8) {
+                break;
+            }
+        }
+        System.out.println(counter);
+        do {
+            int count = 0;
+            do {
+                count++;
+            } while (count < 2);
+            break;
+        } while (true);
+        for( ;i=0;i++){
+            System.out.println("Inside");
+        }
+
+    }
+    public static void main(String[] args){
+
+        do{
+            System.out.println("INside");
+        }while(false);
+
+        int singer = 0;
+        while(singer>0){
+            singer++;
+            System.out.println("Singer");
+        }
+
+       // ArrayList<Integer> taxis = new ArrayList<>();
+        StringBuilder ber = new StringBuilder();
+        int[] taxis = new int[1];
+        String letters = "";
+        while(letters.length()!=3){
+            letters+="ab";
+        }
+        System.out.println("letters "+letters);
+    }
+
+     */
+    public static void main(String[] args){
+        String[] a = new String[]{"av","as"};
+      for(int j = a.length ; j > 0 ; j++){
+          System.out.println("asd---"+a[j]);
+      }
+    }
+    public void printName(String... args){
+        System.out.println(Arrays.toString(args));
+
+    }
+    public void printNames(String[] arra){
+        System.out.println(Arrays.toString(arra));
     }
 }
+
 class Ski{
     private int age;
     public int age2 = 10;
@@ -359,7 +533,7 @@ class Ski{
     public int compute(){return 10;}
   //  private Date rob = new Date();
     private java.util.Date s = new java.util.Date();
-
+/*
     public static void main(String[] args){
         final Ski mySkier = new Ski();
         mySkier.age = 16;
@@ -369,8 +543,22 @@ class Ski{
         final int check = 1;
         skichile chile = new skichile();
         System.out.println(chile.age2);
-
+        System.out.println(myName.equals(null));
+        if(true){
+            System.out.println("1");
+        }
+        else if(true){
+            System.out.println("2");
+        }
+        if(true){
+            System.out.println("3");
+        }
+        else{
+            System.out.println("4");
+        }
     }
+
+ */
 }
 class skichile extends Ski {
     skichile(){
