@@ -262,13 +262,32 @@ public class Questions {
 
 
     public Questions() {
-        first = "Constructor";
+      super();
     }
+    public void choose(){
+        System.out.println("VOID");
+    }
+    private static int choose(){return 2;}
+    public int choose(long choice){return 11;}
 
-    public void Questions() {
-        double i = new Double(1_0000000);
-        System.out.println("Hello");
+    interface aa {
+      // void print(){};
+        final int q = 19;
+        protected int q1 = 19;
+        abstract int q = 10;
+        static int q2 = 0;
+        public int q3 = 0;
     }
+    interface b implements aa{}
+    //public int $asdb(int e ){return 0|;}
+    public static void main(String[] args){
+        System.out.println(new Questions().choose((byte)2+1));
+    }
+    abstract class c { abstract protected void n();
+    }
+    class d extends c{}
+
+    public void Questions() {}
 
     {
         first = "block";
@@ -487,13 +506,57 @@ public class Questions {
         System.out.println("letters "+letters);
     }
 
-     */
-    public static void main(String[] args){
-        String[] a = new String[]{"av","as"};
-      for(int j = a.length ; j > 0 ; j++){
-          System.out.println("asd---"+a[j]);
-      }
+
+    private static int count;
+    //private static String[] = new String[] {"Washington","Monroe","Jackson","LaSalle"};
+    public static void main(String[] args) {
+        String n = null;
+        StringBuilder br = new StringBuilder();
+        String str = new String("Leaves growing");
+        //do{}while(builder);
+        boolean x = false;
+      do{
+          if(!x){
+              x=true;
+              System.out.println("Inflate-");
+          }
+      }while(x);
+        System.out.println("DOne");
+        int i=0 , j = 0;
+
     }
+
+     */
+    public int nested(){ return nested(2,true);}
+    public int nested(int a){return nested(a,true);}
+    public int nested(int a , boolean b){return a+1;}
+    void Go_$Outside$2(){}
+
+    public final static int getNumber(){
+        return 3;
+    }
+/*
+    private final Object contents;
+    protected Object getContents(){return contents;}
+    protected void serContents(Object contents){this.contents = contents;}
+    protected void showContents(){
+        System.out.println("Your Gift: "+contents);
+    }
+
+    public static void main(String[] args){
+        Questions q = new Questions();
+        System.out.println(q.nested());
+    }
+
+ */
+    private int inThe = 4;
+    final protected int s = 4;
+   // private static final String Monday;
+    public void stars(){
+      //  super();
+    }
+
+
     public void printName(String... args){
         System.out.println(Arrays.toString(args));
 
@@ -502,6 +565,8 @@ public class Questions {
         System.out.println(Arrays.toString(arra));
     }
 }
+
+
 
 class Ski{
     private int age;
@@ -578,5 +643,6 @@ class Panda {
     }
 interface Climb {
         boolean isTooHigh(int height, int limit);
+
     }
 
