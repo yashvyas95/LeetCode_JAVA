@@ -264,12 +264,54 @@ public class Questions {
     public Questions() {
       super();
     }
-    public void choose(){
-        System.out.println("VOID");
-    }
-    private static int choose(){return 2;}
-    public int choose(long choice){return 11;}
+     public int choose(long choice){return 11;}
 
+     /*
+     abstract class Parellelogram{
+        private int getEqualSides(){return 4;}
+     }
+     abstract class Rectangle extends Parellelogram{
+
+        static int getEqualSides(){return 2;}
+     }
+
+
+    abstract interface CanFly{
+        static int a = 1;
+        public static void fly(){};
+    }
+    class Bird{
+        public int fly(int speed){return 1;}
+    }
+    public class Eagle extends Bird implements CanFly{
+        public void fly(){}
+    }
+
+
+
+
+     interface speakM  talkM{ default int talk(){return 6;}}
+    interface talkM{ default int talk(){return 5;}}
+}
+        class Pera {
+            public final double x =  0;
+        }
+        class Per$ extends Pera{
+            public final double x =  2;
+
+        }
+        class Per$$ extends Per${
+            public final double x =  4;
+        }
+        public int talk(String... x){
+            return x.length;
+        }
+        public static void main(String[] args){
+            System.out.println(new Per());
+        }
+    }
+
+/*
     interface aa {
       // void print(){};
         final int q = 19;
@@ -278,25 +320,7 @@ public class Questions {
         static int q2 = 0;
         public int q3 = 0;
     }
-    interface b implements aa{}
-    //public int $asdb(int e ){return 0|;}
-    public static void main(String[] args){
-        System.out.println(new Questions().choose((byte)2+1));
-    }
-    abstract class c { abstract protected void n();
-    }
-    class d extends c{}
-
-    public void Questions() {}
-
-    {
-        first = "block";
-    }
-
-    public void print() {
-        //System.out.println(first);
-        System.out.println("PLAY--");
-    }
+   /*
 
     public void finalizer() {
         System.out.println("Clean-");

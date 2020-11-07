@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java" afterDir="false" />
     </list>
@@ -21,22 +22,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
+            <state relative-caret-position="132">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
               <folding>
-                <element signature="n#!!doc;n#Questions#0" />
-                <element signature="e#1852#2968#0" />
-                <element signature="e#2969#2991#0" />
-                <element signature="e#3068#6140#0" />
-                <element signature="e#6141#6978#0" />
-                <element signature="e#7164#7165#0" expanded="true" />
-                <element signature="e#7185#7186#0" expanded="true" />
-                <element signature="e#7221#7222#0" expanded="true" />
-                <element signature="e#7257#7258#0" expanded="true" />
-                <element signature="method#append#0;class#Ski#0" />
+                <element signature="class#five#0" />
+                <element signature="class#four#0" />
+                <element signature="class#three#0" />
+                <element signature="class#two#0" />
+                <element signature="class#One#0" />
+                <element signature="class#Math#0;class#One#0" />
+                <element signature="class#ComplexMath#0;class#One#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Error.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Throwable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3971">
+              <caret line="315" column="11" selection-start-line="315" selection-start-column="11" selection-end-line="315" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Exception.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-863">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -87,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/com/LeetCode/Solutions/NumeralsRoman/NumeralsRoman.java" />
         <option value="$PROJECT_DIR$/src/com/Concepts/File/FileConcepts.java" />
         <option value="$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java" />
+        <option value="$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java" />
       </list>
     </option>
   </component>
@@ -97,8 +123,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="610" />
-    <option name="width" value="1170" />
+    <option name="x" value="-10" />
+    <option name="width" value="1018" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -106,7 +132,69 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git_LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git_LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git_LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git_LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Questions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git_LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 14 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -147,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Questions">
+  <component name="RunManager" selected="Application.Questions2">
     <configuration name="ComplexCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Concepts.Threads.ComplexCalculation" />
       <module name="Git_LeetCode" />
@@ -187,6 +275,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Questions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Cerification.Questions.Questions2" />
+      <module name="Git_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Cerification.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ski" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Cerification.Questions.Ski" />
       <module name="Git_LeetCode" />
@@ -200,26 +301,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.Threads.ThreadConcepts" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Concepts.Threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Questions2" />
         <item itemvalue="Application.Questions" />
         <item itemvalue="Application.Ski" />
         <item itemvalue="Application.FileConcepts" />
         <item itemvalue="Application.ComplexCalculation" />
-        <item itemvalue="Application.ThreadConcepts" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604354277181</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS">
+      <created>1604626870902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604626870902</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -338,16 +433,16 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" sideWeight="0.41755888" side_tool="true" visible="true" weight="0.10939597" />
+      <window_info active="true" id="Structure" order="0" sideWeight="0.8753351" side_tool="true" visible="true" weight="0.32416108" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.5824411" weight="0.14127764" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.12466488" visible="true" weight="0.32416108" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.18538566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.18498659" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3632708" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -483,84 +578,78 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>603</line>
+          <line>627</line>
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>326</line>
+          <line>350</line>
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>320</line>
+          <line>344</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>349</line>
+          <line>373</line>
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>341</line>
+          <line>365</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>360</line>
+          <line>384</line>
           <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>376</line>
+          <line>400</line>
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>377</line>
+          <line>401</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>468</line>
+          <line>492</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>283</line>
-          <properties />
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>340</line>
-          <properties class="com.Cerification.Questions.Questions">
+          <line>364</line>
+          <properties class="com.Cerification.Questions.aa">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>357</line>
-          <properties class="com.Cerification.Questions.Questions">
+          <line>381</line>
+          <properties class="com.Cerification.Questions.aa">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
-          <line>511</line>
-          <properties class="com.Cerification.Questions.Questions" method="nested">
+          <line>535</line>
+          <properties class="com.Cerification.Questions.aa" method="nested">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="76" />
@@ -875,10 +964,31 @@
     <entry file="file://$USER_HOME$/Desktop/Pack/PACKB/Closet.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-863">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3971">
+          <caret line="315" column="11" selection-start-line="315" selection-start-column="11" selection-end-line="315" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
+        <state relative-caret-position="259">
+          <caret line="550" column="5" lean-forward="true" selection-start-line="550" selection-start-column="5" selection-end-line="550" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc;n#Questions#0" />
             <element signature="e#1852#2968#0" />
@@ -887,9 +997,23 @@
             <element signature="e#6141#6978#0" />
             <element signature="e#7164#7165#0" expanded="true" />
             <element signature="e#7185#7186#0" expanded="true" />
-            <element signature="e#7221#7222#0" expanded="true" />
-            <element signature="e#7257#7258#0" expanded="true" />
             <element signature="method#append#0;class#Ski#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="class#five#0" />
+            <element signature="class#four#0" />
+            <element signature="class#three#0" />
+            <element signature="class#two#0" />
+            <element signature="class#One#0" />
+            <element signature="class#Math#0;class#One#0" />
+            <element signature="class#ComplexMath#0;class#One#0" />
           </folding>
         </state>
       </provider>
