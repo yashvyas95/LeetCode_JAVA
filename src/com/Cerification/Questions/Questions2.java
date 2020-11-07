@@ -8,17 +8,52 @@ import java.io.IOException;
 
 public class Questions2 {
 
-    public static void main(String[] args) throws Exception{}
+    public static void main(String[] args)
+    {
 
+    }
 }
 
+class e8{
+    public void method() {
+        try {
+            System.out.print("A");
+            throw new RuntimeException("Out of Bounds");
+        } catch (ArrayIndexOutOfBoundsException aiobe) {
+            System.out.print("B");
+         //   throw t;
+        } finally {
+            System.out.print("c");
+        }
+    }
+}
+class e7 {
+    public void method() {
+        try {
+            throw new IOException();
+        } catch (IOException e) {
+        } catch (Exception e1) {
+        }
+    }
+}
+class e6{
+    class Baseball{
+        public void meth(){
+            int score = 1;
+            try{
+                System.out.println("Line-1"+score++);
+            }
+            catch(Throwable t){
+                System.out.println("Line-2"+score++);
+            }
+            finally {
+                System.out.println("Line-3  "+score++);
+            }
+        }
 
-
-
-
-
-
-class five{
+    }
+}
+class e5{
     class Remember{
         public void think() throws Exception{
             try{
@@ -28,11 +63,11 @@ class five{
         }
     }
 }
-class four{
+class e4{
     class parent{ public parent()throws EOFException {};}
     class child extends parent{public child()throws IOException{};}
 }
-class three{
+class e3{
     abstract class House{
         protected abstract Object getSpace();
     }
@@ -40,13 +75,13 @@ class three{
         abstract Object getSpace(Object list);
     }
 }
-class two{
+class e2{
     interface checkInterfaceMethod{
         static void x(){}
         default void xq(){};
     }
 }
-class One{
+class e1{
     class Q2 extends ComplexMath{
         public final double x =  4;
         public final void dance(){}
