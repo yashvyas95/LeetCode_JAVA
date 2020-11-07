@@ -10,10 +10,82 @@ public class Questions2 {
 
     public static void main(String[] args)
     {
-
+        e12 E_12 = new e12();
+        E_12.Exception();
     }
 }
 
+
+class e13{
+
+}
+
+
+
+class e12{
+    public void Exception(){
+        final Object exception = new Exception();
+        final Exception data = (RuntimeException)exception;
+        System.out.println(data);
+       // try{}
+        //catch (Throwable t){}
+       // catch (RuntimeException e1)
+       // catch (ClassCastException e){}
+        //catch (RuntimeException r){}
+    }
+}
+class e11 {
+    public void checkTryBlocks() throws RuntimeException{
+        try {
+            System.out.println("1---");
+            throw new FileNotFoundException("qq");
+        } catch (Exception e) {
+            try {
+                System.out.println("2---");
+                throw new Exception();
+            } catch (Exception eee) {
+                System.out.println("4---");
+            }
+        } finally {
+            try {
+                System.out.println("5---");
+                throw new Exception();
+            } catch (Exception e) {
+            }
+        }
+    }
+
+}
+class e10{
+    class GasElement extends Exception{}
+    class Element{
+        public int getElement() throws GasElement{ return -1;}
+    }
+    class Oxgyen extends Element{
+        public int getSymbol(){return -8;}
+        public void printData(){
+            try{
+                System.out.println(getSymbol());
+            }
+            catch (Exception e){}
+            finally {
+              //  throw new Exception();
+            }
+        }
+    }
+}
+class e9{
+    class PrintException extends Exception{}
+    class PaperPrintException extends PrintException{}
+    public interface Printer{
+        abstract int printData() throws PrintException;
+    }
+    class Implementing implements Printer{
+        public int printData() throws PrintException{
+            return 1;
+        }
+    }
+}
 class e8{
     public void method() {
         try {
