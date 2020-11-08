@@ -8,20 +8,58 @@ import java.io.IOException;
 
 public class Questions2 {
 
-    public static void main(String[] args)
-    {
-        e12 E_12 = new e12();
-        E_12.Exception();
+    public static void main(String[] args) throws Exception {
+
     }
 }
 
+class e16{
+    public void method(){
+        try{}
 
-class e13{
+        catch (ClassCastException c1){}
+        catch (IllegalArgumentException e){}
+    }
 
 }
 
 
 
+class e15{
+    class DragonException extends Exception{}
+    class Lair{
+        public void openDrawBridge() throws Exception{
+            try{
+                throw new Exception("Exception");
+            }
+            catch(RuntimeException e){
+                throw new DragonException();
+            }
+            finally{
+                throw new RuntimeException();
+                }
+            }
+        }
+    }
+class e14{
+
+    class A extends B{}
+    class B extends Exception{}
+    public interface C{
+        public void method() throws A;
+    }
+    class D implements C{
+        public void method() throws A{}
+    }
+}
+class e13{
+    class parent{
+        public void method() throws RuntimeException{}
+    }
+    class child extends parent{
+        //public void method() throws Exception{}
+    }
+}
 class e12{
     public void Exception(){
         final Object exception = new Exception();
