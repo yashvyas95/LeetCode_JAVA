@@ -8,17 +8,180 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+import java.util.Random;
 import java.util.function.Predicate;
 import java.time.LocalDate;
 
+
+
 public class Questions2 {
+    public static void main(String[] args) {
+        Questions2 q = new Questions2();
+        ////System.out.println();
 
-
+    }
 
 }
 
+class e48{
+
+}
+
+class e47{
+    public static class Ship{
+        private enum Sail{
+            TALL{protected int getHeight() { return 100; }},
+            SHORT{protected int getHeight() { return 2; }};
+            protected abstract int getHeight();
+        }
+        public Sail getSail(){return Sail.TALL;}
+    }
+}
+class e46 {
+    //Can Interface extened other Interface without putting method of parent class
+    interface A {
+        void method(double psi);
+    }
+
+    interface B extends A {
+        void method2(double input);
+    }
+}
+class e45{
+    static class a{
+        private enum sail{
+            TALL {protected int getheight(){return 10;}},
+            SHORT {protected int getheight(){return 5;}};
+           // protected abstract getheight();
+        }
+    }
+}
+class e44{
+
+    interface A{
+        int Speed = 5;
+        default int getSpeed(){return Speed;}
+    }
+    interface b{
+        int Speed = 5;
+        default int getSpeed(){return Speed;}
+    }
+
+     //class Questions2 implements A,b{
+    class Questions2{
+       // public static void main(String[] args) {
+            class Inner extends Questions2 {
+       //         @Override
+                public int getSpeed() {
+                    return 10;
+                }
+            }
+       // }
 
 
+    }
+
+}
+class e43{
+    enum Dayoff{ Thanksgiving, PresidentDay, ValentineDay}
+    public class Questions2 {
+        private int level = 1;
+        class Deep{
+            private int level = 2;
+            class Deeper{
+                private int level = 3;
+                public void printReality(){
+                    System.out.println(level);
+                    System.out.println(" "+Questions2.Deep.this.level);
+                    System.out.println(" "+Deep.this.level);
+                }
+            }
+        }
+        public   void main(String[] args){
+            Questions2.Deep.Deeper si = new Questions2().new Deep().new Deeper();
+            si.printReality();
+        }
+    }
+}
+class e42{
+    enum Dayoff{ Thanksgiving, PresidentDay, ValentineDay}
+}
+class e41{
+    class Parent{
+        void method(){};
+    }
+    class Child extends Parent{
+        private void method(String s){};
+    }
+}
+class e40{
+    static{
+        System.out.println("ANy");
+    }
+    {
+        System.out.println("More");
+    }
+
+}
+class e39{
+    class parent{
+         void method(){};
+    }
+    class child extends parent{
+        public void method(){};
+    }
+}
+class e38{
+    class A {
+        private String type = "Watch";
+
+        public String getType(String suffix) {
+            return type+suffix;
+        }
+
+    }
+    class B extends A{
+        private String type = "Smart Watch";
+        public String getType(String suffix){return type+suffix;}
+    }
+}
+class e37{
+    static {
+        System.out.println("INSIDE- STATIC");
+    }
+    private void drive(){
+        System.out.println("Drive");
+    }
+
+}
+class e36{
+    class ExamAnswers {
+        private  ExamAnswers instance = new ExamAnswers();
+        private  List<String> answers = new ArrayList<>();
+        private ExamAnswers() {}
+        public ExamAnswers getExamAnswers() {
+            return instance;
+        }
+        public List<String> getAnswers() {
+            return answers;
+        }
+    }
+    class TestAnswers {
+        private  TestAnswers instance = new TestAnswers();
+        private List<String> answers = new ArrayList<>();
+        private TestAnswers() {}
+        public  TestAnswers getTestAnswers() {
+            return instance;
+        }
+        public List<String> getAnswers() {
+            return answers;
+        }
+    }
+
+}
+class e35{private int number = new Random().nextInt(10);
+    public boolean guess (int can){return number == can;}
+}
 class e34{
     static interface Vehicle{}
     static class Bus implements Vehicle{}
@@ -362,24 +525,31 @@ class e2{
         default void xq(){};
     }
 }
-class e1{
-    class Q2 extends ComplexMath{
-        public final double x =  4;
-        public final void dance(){}
-        public void main(String[] args){
+class e1 {
+    class Q2 extends ComplexMath {
+        public final double x = 4;
+
+        public final void dance() {
+        }
+
+        public void main(String[] args) {
             ComplexMath math = new Q2();
             System.out.println(math.x);
             Q2 q = new Q2();
             q.dance();
         }
     }
-    class Math{
-        public final double x =  0;
+
+    class Math {
+        public final double x = 0;
 
     }
-    class ComplexMath extends Math{
-        public final double x =  2;
-        protected void dance() throws FileNotFoundException {}
+
+    class ComplexMath extends Math {
+        public final double x = 2;
+
+        protected void dance() throws FileNotFoundException {
+        }
 
     }
 
