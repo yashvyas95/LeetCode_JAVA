@@ -4,21 +4,91 @@ import java.io.EOFException;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.time.Period;
-import java.time.Period.*;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
 import java.time.LocalDate;
 
 public class Questions2 {
 
-    public static void main(String[] args) throws Exception {
+    //private static Questions2 instance = new Questions2();
+    public static void main(String[] args){
+
+
+}
+
+
+
+class e31{
+        public  void method(){
+    parent p = new parent();}
+     //   System.out.println(p.type);
+    //    System.out.println(c.type);
+      class parent{
+        String type = "Parent";
+    }
+     class child extends parent{
+        String type = "Child";
+    }
+}
+static class e30{
+    interface Vehicle {}
+    class Bus implements Vehicle {}
+    public void main(String[] args) {
+        Bus bus = new Bus();
+        boolean n = null instanceof Bus;
+        boolean v = bus instanceof Vehicle;
+        boolean b = bus instanceof Bus;
+        System.out.println(n + " " + v + " " + b);
+    }
+
+}
+class e28{
+    class Tool{
+        void use(){}
+    }
+    class Hammer extends Tool{
+    //    private void use(){}
 
     }
 }
+class e27{
+    public void method(){
+        LocalDate xmas = LocalDate.of(2016,12,15);
 
+    }
+}
+class e26{
+    public void method(){
+        List<String> list = new ArrayList<>();
+        list.add("-5");
+        list.add("0");
+        list.add("5");
+        list.remove(4);
+    //    print();
+
+    }
+    public static void print(List<String>list,Predicate<Integer>p){
+        for (String num : list){
+            if(p.test(Integer.parseInt(num))){
+                System.out.println(num);
+            }
+        }
+    }
+}
+class e25{
+    public void method(){
+        StringBuilder sb = new StringBuilder("12345");
+        sb.substring(2);
+        System.out.println(sb.charAt(1));
+        String s = new String("11");
+        StringBuilder ss = new StringBuilder();
+       // s.replace(new String("aaaaa"));
+        //ss.charAt()
+       // ss.length()
+    }
+}
 class e24{
     public void method(){
         LocalDate d1 = LocalDate.of(2017,1,1);
@@ -27,8 +97,6 @@ class e24{
         System.out.println(f.format(d1.minus(period)));
     }
 }
-
-
 class e23 {
     public void method() {
         Period period1 = Period.ofWeeks(1).ofDays(3);
@@ -38,7 +106,6 @@ class e23 {
         System.out.println(period2.toString());
     }
 }
-
 class e22{
     public void method(){
         Predicate<String> dash = c-> c.startsWith("-");
@@ -49,10 +116,6 @@ class e22{
         System.out.println(d.getDayOfMonth());
     }
 }
-
-
-
-
 class e21{
     public void method(){
         //Predicate<String> pred = (String s) -> true;
