@@ -6,20 +6,39 @@ import java.io.IOException;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import java.util.function.Predicate;
 import java.time.LocalDate;
 
 public class Questions2 {
 
-    //private static Questions2 instance = new Questions2();
-    public static void main(String[] args){
 
 
 }
 
 
 
+class e34{
+    static interface Vehicle{}
+    static class Bus implements Vehicle{}
+    public void method(String[] args) {
+        Bus b = new Bus();
+    //    System.out.println(b instanceof ArrayList);[ERROR]
+        System.out.println(b instanceof Collection);
+        System.out.println(b instanceof Vehicle);
+        System.out.println(b instanceof Bus);
+        System.out.println(null instanceof Bus);
+    }
+
+}
+class e32{
+    private static int integr;
+    private int numrakes;
+    public static int getNum(){return integr;}
+    public  int getNum2(){return numrakes;}
+
+}
 class e31{
         public  void method(){
     parent p = new parent();}
@@ -32,7 +51,7 @@ class e31{
         String type = "Child";
     }
 }
-static class e30{
+class e30{
     interface Vehicle {}
     class Bus implements Vehicle {}
     public void main(String[] args) {
