@@ -24,17 +24,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Char</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\Yash\IdeaProjects\Git_LeetCode\src\com\LeetCode\Solutions\com\LeetCode\Solutions</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -272,40 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1604982376584</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]&#10;&#10;FROM 35-&gt;OCP">
+      <created>1605046161263</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605046161263</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 19m 06s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 20m 32s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 20m 39s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 21m 14s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 22m 11s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 22m 14s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 22m 47s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 30m 58s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 32m 20s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="longestCommonPrefixTest_longestCommonPrefixTest1 - 2020.09.18 at 17h 32m 27s.xml">
-      <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,61 +313,62 @@
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS" />
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added" />
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]" />
+    <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]&#10;&#10;FROM 35-&gt;OCP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]&#10;&#10;FROM 35-&gt;OCP" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="6" key="#Project_Structure" timestamp="1604957603927">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="6" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1604957603927" />
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1605017711336">
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1605120909243">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605017711336" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1604982375462">
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605120909243" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1605046159379">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1604982375462" />
-    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1605046093343">
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605046159379" />
+    <state width="554" height="152" key="GridCell.Tab.0.bottom" timestamp="1605640492909">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605046093343" />
-    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1605046093343">
+    <state width="554" height="152" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605640492909" />
+    <state width="554" height="152" key="GridCell.Tab.0.center" timestamp="1605640492909">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605046093343" />
-    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1605046093343">
+    <state width="554" height="152" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605640492909" />
+    <state width="554" height="152" key="GridCell.Tab.0.left" timestamp="1605640492909">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605046093343" />
-    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1605046093343">
+    <state width="554" height="152" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605640492909" />
+    <state width="554" height="152" key="GridCell.Tab.0.right" timestamp="1605640492909">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605046093343" />
-    <state width="1493" height="181" key="GridCell.Tab.1.bottom" timestamp="1605041935884">
+    <state width="554" height="152" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605640492909" />
+    <state width="1017" height="178" key="GridCell.Tab.1.bottom" timestamp="1605473535905">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605041935884" />
-    <state width="1493" height="181" key="GridCell.Tab.1.center" timestamp="1605041935884">
+    <state width="1017" height="178" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605473535905" />
+    <state width="1017" height="178" key="GridCell.Tab.1.center" timestamp="1605473535905">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1605041935884" />
-    <state width="1493" height="181" key="GridCell.Tab.1.left" timestamp="1605041935884">
+    <state width="1017" height="178" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1605473535905" />
+    <state width="1017" height="178" key="GridCell.Tab.1.left" timestamp="1605473535905">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1605041935884" />
-    <state width="1493" height="181" key="GridCell.Tab.1.right" timestamp="1605041935884">
+    <state width="1017" height="178" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1605473535905" />
+    <state width="1017" height="178" key="GridCell.Tab.1.right" timestamp="1605473535905">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1605041935884" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604982378267">
+    <state width="1017" height="178" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1605473535905" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605046164254">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604982378267" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605017924381">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605046164254" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605127917947">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605017924381" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605127917947" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -483,6 +448,19 @@
           <line>492</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
+          <line>69</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
           <line>364</line>
@@ -509,11 +487,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>262</line>
-          <properties class="com.Cerification.Questions.e25" method="method">
+          <line>399</line>
+          <properties class="com.Cerification.Questions.e59.e25" method="method">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
+          <line>49</line>
+          <properties class="com.Cerification.Questions.e59.e57" method="method">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

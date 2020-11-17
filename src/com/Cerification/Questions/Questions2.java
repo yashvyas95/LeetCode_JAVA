@@ -1,32 +1,169 @@
 package com.Cerification.Questions;
 
+import java.awt.*;
+import java.awt.desktop.QuitEvent;
 import java.io.EOFException;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.Collection;
+import java.util.*;
 import java.util.List;
-import java.util.Random;
+import java.util.function.*;
 import java.util.function.Predicate;
 import java.time.LocalDate;
-
-
+import java.util.stream.Stream;
 
 public class Questions2 {
-    public static void main(String[] args) {
-        Questions2 q = new Questions2();
-        ////System.out.println();
+        public static void main(String[] args) {
 
     }
-
 }
 
-class e48{
-
+class e59{
+    public void method() {
+        Stream<Integer> stream = Stream.iterate(1, i -> i + 1);
+        boolean b = stream.anyMatch(i -> i > 5);
+        System.out.println(b);
+    }
 }
 
+class e58{
+
+    class Tourist{
+        public Tourist(double distance){this.distance = distance;}
+        public double distance;
+    }
+     class Lifeguard{
+        private void saveLife(Predicate<Tourist> canSave, Tourist tourist){
+            System.out.println(canSave.test(tourist)?"Saved":"Toofar");
+            new Lifeguard().saveLife(s->s.distance<4,new Tourist(2));
+        }
+    //    public final static void main(String... arfs){
+    //        new Lifeguard().saveLife(s->s.distance<4,new Tourist(2));
+    //    }
+    }
+}
+
+
+class e57{
+    public void method(){
+        List<String>list = new LinkedList<>();
+        list.add("One");
+        list.add("Two");
+        list.add("San Francisco");
+
+        long c = list.stream().filter(a->a.length()>10).count();
+
+        System.out.println(c+" --- "+list.size());
+
+      //  list.stream().forEach(System.out::println);
+      //  list.stream().forEach(System.out::println);
+
+    }
+}
+class e56{
+    public void method() {
+        ArrayDeque<Integer> a = new ArrayDeque<>();
+        a.offer(3);
+        a.offer(2);
+        a.offer(4);
+        System.out.println(a.stream().filter(n->n!=4));
+    }
+}
+class e55{
+    public void method() {
+        List<String> s = new LinkedList<String>();
+        s.add("a");
+    }
+}
+
+class e54{
+    public class News<Object>{}
+}
+
+class e53 {
+
+    final public class Bottle {
+        final private int size = 14;
+
+        final protected class Insert {
+            public final int getsize() {
+                return Bottle.this.size;
+            }
+        }
+    }
+}
+
+class e52{
+    interface AddNumbers{
+        int add(int a , int b);
+        static int substract(int a , int b){return a-b;}
+        default int multiply(int a, int b){return a*b;}
+    }
+    class Calculator{
+        protected void calculate(AddNumbers a , int a1, int b1){
+            System.out.println(a.add(a1,b1));
+        }
+    }
+}
+class e51{ enum Enum_Method_OverRideChecking{
+    TRUE(10){@Override public String getNickName(){return "Right";}},
+    FALSE(-10){public String getNickName(){return "False";}},
+    UNKNOWN(0){@Override public String getNickName(){return "Lost";}};
+    private final int value;
+    protected abstract String getNickName();
+    Enum_Method_OverRideChecking(int value){this.value = value;}
+    public int getValue(){
+        return this.value;
+    }
+}}
+class e50{
+    interface Alex{
+        default void write(){}
+        static void publish(){}
+        void think();
+    }
+    interface Micheal{
+        public default void write(){}
+        public static void publish(){};
+        public void think();
+    }
+
+    class Twins implements Alex,Micheal{
+        @Override public void write(){}
+//        @Override public static void publish(){}
+        @Override public void think(){
+            System.out.println("Thinking..." );
+        }
+    }
+}
+
+
+class e49{
+    interface canBurrow{
+        public abstract void burrow();
+    }
+    @FunctionalInterface interface HasHardShell extends canBurrow{}
+    abstract class Tortoise implements HasHardShell{
+        public abstract int toughness();
+    }
+    // class DesertTortoise extends Tortoise{
+        public int toughness(){return 11;}
+    }
+class e48 {
+    //interface Edible{void eat();}
+    final class Oak{
+        int water = 10 + 5;
+
+        public int getWater() {
+            return water;
+        }
+    }class Problems extends Exception{}
+    abstract class Danger{ protected abstract void isDanger() throws Problems;
+
+    }
+}
 class e47{
     public static class Ship{
         private enum Sail{
