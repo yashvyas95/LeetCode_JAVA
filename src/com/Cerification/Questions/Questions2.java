@@ -12,14 +12,152 @@ import java.util.List;
 import java.util.function.*;
 import java.util.function.Predicate;
 import java.time.LocalDate;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
+import static java.util.stream.Collectors.*;
+
 public class Questions2 {
+    String header = null;
         public static void main(String[] args) {
+            Stream<Boolean> hide = Stream.of(true,false,true);
+            boolean found = hide.filter(b->b).allMatch();
+            int k = 0;
+            header = 1 ;
+           // while(--k){}
+        }
+        Questions2 Questions2(){
+        }
+}
+
+
+
+
+class e73{
+    class Ballot{
+        private String name;
+        private int judgeNumber;
+        private int score;
+
+        public Ballot(String name, int number,int score){
+            this.name = name;
+            this.judgeNumber = number;
+            this.score = score;
+        }
+        public String getName(){return this.name;}
+        public int getScore(){return this.score;}
+    }
+
+}
+
+
+
+class e72{
+    public void method(){
+        Stream<Integer> is = Stream.of(8,6,9);
+        Comparator<Integer> c = (a,b) -> a-b;
+        //is.sort(c)
+    }
+}
+
+
+
+class e71{
+    public void method(){
+        LongStream stream = LongStream.of(9);
+        stream.map(p->p).forEach(System.out::println);
+    }
+}
+
+class e70{
+    public static void eatDesert(Optional<String> opt){
+      //  System.out.println(opt.get("No Dessert Today"));
+    }
+}
+class e69{
+    public void method(){
+        IntStream ints = IntStream.empty();
+        IntStream moreInts = IntStream.of(66,77,88);
+        Stream.of(ints,moreInts).flatMapToInt(x->x).forEach(System.out::println);
+    }
+}
+
+
+
+class e68{
+    public void method() {
+        Set<String> set = new HashSet<>();
+        set.add("tire-");
+        List<String> list = new LinkedList<>();
+        Deque<String> queue = new ArrayDeque<>();
+        queue.push("wheel-");
+        Stream.of(set,list,queue)
+                .map(x -> x)
+                .forEach(System.out::println);
+    }
+
+}
+
+class e67{
+    public void method(){
+        Set<String> set = new HashSet<>();
+        set.add("tire-");
+        List<String> list = new ArrayList<>();
+        Deque<String> queue = new ArrayDeque<>();
+        queue.push("wheel-");
+        Stream.of(set,list,queue).flatMap(x->x.stream()).forEach(System.out::println);
 
     }
 }
 
+class e66{
+    public void method(){
+        Stream<Boolean> bools = Stream.iterate(true,b->!b);
+        Map<Boolean,List<Boolean>> map = bools.limit(1).collect(partitioningBy(b->b));
+        System.out.println(map);
+    }
+}
+class e65{
+    public void method(){
+        Stream<Character> stream = Stream.of('c','b','a');
+      //  stream.sorted((String s,String t)->{s.length()-t.length()}).findAny().ifPresent(System.out::println);
+    }
+}
+class e64{
+    public void method(){
+        Stream s = Stream.of("hi");
+        Consumer<String> print = System.out::println;
+        s.peek(print).peek(print).map(s1->s1).peek(print).forEach(print);
+    }
+}
+class e63{
+    public void method(){
+        Stream<String> s = Stream.of("Speak","bark","meow","growl");
+        BinaryOperator<String> merge = (a,b)->a;
+        Map<Integer,String> map = s.collect(toMap(String::length,k->k,merge));
+        System.out.println(map.size()+ "   ----   "+map.get(4));
+    }
+}
+class e62{
+    public void method(){
+        Stream<Character> chrs = Stream.of('o','b','s','t','a','c','l','e');
+  //     chrs.map(c->c).collect(toMap());
+    }
+}
+class e61{
+    public void method(){
+        IntStream a = IntStream.empty();
+        System.out.println(a.average().getAsDouble());
+    }
+}
+class e60{
+    public void method(){
+        Stream<String> stream = Stream.of("base","ball");
+        stream.map(s->s.length()).forEach(System.out::print);
+    }
+}
 class e59{
     public void method() {
         Stream<Integer> stream = Stream.iterate(1, i -> i + 1);
@@ -27,7 +165,6 @@ class e59{
         System.out.println(b);
     }
 }
-
 class e58{
 
     class Tourist{
@@ -44,8 +181,6 @@ class e58{
     //    }
     }
 }
-
-
 class e57{
     public void method(){
         List<String>list = new LinkedList<>();
