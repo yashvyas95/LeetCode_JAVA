@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Enumeration/EnumerationConcepts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +63,13 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Questions2">
-    <configuration name="ComplexCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.Threads.ComplexCalculation" />
+  <component name="RunManager" selected="Application.Exceptions$Concepts">
+    <configuration name="Exceptions$Concepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concepts.Exceptions.Exceptions$Concepts" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Concepts.Threads.*" />
+          <option name="PATTERN" value="com.Concepts.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exceptions$Concepts" />
         <item itemvalue="Application.Questions2" />
         <item itemvalue="Application.Questions" />
         <item itemvalue="Application.Ski" />
         <item itemvalue="Application.FileConcepts" />
-        <item itemvalue="Application.ComplexCalculation" />
       </list>
     </recent_temporary>
   </component>
@@ -275,17 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1605640541658</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;1)Exceptions">
+      <created>1607464955492</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607464955492</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -321,7 +321,8 @@
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added" />
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]" />
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]&#10;&#10;FROM 35-&gt;OCP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]&#10;&#10;FROM 35-&gt;OCP" />
+    <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;1)Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;1)Exceptions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="6" key="#Project_Structure" timestamp="1604957603927">
@@ -332,54 +333,54 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605120909243" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1605640539011">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1607464952877">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605640539011" />
-    <state width="1012" height="269" key="GridCell.Tab.0.bottom" timestamp="1605715055303">
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1607464952877" />
+    <state width="896" height="168" key="GridCell.Tab.0.bottom" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state width="1012" height="269" key="GridCell.Tab.0.center" timestamp="1605715055303">
+    <state width="896" height="168" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state width="896" height="168" key="GridCell.Tab.0.center" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state width="1012" height="269" key="GridCell.Tab.0.left" timestamp="1605715055303">
+    <state width="896" height="168" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state width="896" height="168" key="GridCell.Tab.0.left" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state width="1012" height="269" key="GridCell.Tab.0.right" timestamp="1605715055303">
+    <state width="896" height="168" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state width="896" height="168" key="GridCell.Tab.0.right" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state width="1012" height="269" key="GridCell.Tab.1.bottom" timestamp="1605715055303">
+    <state width="896" height="168" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state width="896" height="168" key="GridCell.Tab.1.bottom" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state width="1012" height="269" key="GridCell.Tab.1.center" timestamp="1605715055303">
+    <state width="896" height="168" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state width="896" height="168" key="GridCell.Tab.1.center" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state width="1012" height="269" key="GridCell.Tab.1.left" timestamp="1605715055303">
+    <state width="896" height="168" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state width="896" height="168" key="GridCell.Tab.1.left" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state width="1012" height="269" key="GridCell.Tab.1.right" timestamp="1605715055303">
+    <state width="896" height="168" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state width="896" height="168" key="GridCell.Tab.1.right" timestamp="1607477482824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1012" height="269" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1605715055303" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605640544240">
+    <state width="896" height="168" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607465883396">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605640544240" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607465883396" />
     <state x="770" y="200" key="run.anything.popup" timestamp="1605641522229">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="770" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605641522229" />
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605714128344">
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1607469265427">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605714128344" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607469265427" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -461,7 +462,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>204</line>
+          <line>194</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -469,27 +470,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>201</line>
+          <line>191</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>156</line>
+          <line>146</line>
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>158</line>
+          <line>148</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>136</line>
+          <line>126</line>
           <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>131</line>
+          <line>121</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -497,7 +498,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>117</line>
+          <line>107</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -507,6 +508,21 @@
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
           <line>21</line>
           <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
@@ -534,7 +550,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>534</line>
+          <line>524</line>
           <properties class="com.Cerification.Questions.e25" method="method">
             <option name="EMULATED" value="true" />
           </properties>
@@ -542,19 +558,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>128</line>
+          <line>118</line>
           <properties class="com.Cerification.Questions.e64" method="method">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java</url>
-          <line>23</line>
-          <properties class="com.Cerification.Questions.Questions2" method="main">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java</url>
+          <line>108</line>
+          <properties class="com.Concepts.Exceptions.Exceptions$Concepts" method="main">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="108" />
+          <option name="timeStamp" value="120" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

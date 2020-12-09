@@ -20,17 +20,7 @@ import java.util.stream.Stream;
 import static java.util.stream.Collectors.*;
 
 public class Questions2 {
-    String header = null;
-        public static void main(String[] args) {
-            Stream<Boolean> hide = Stream.of(true,false,true);
-            boolean found = hide.filter(b->b).allMatch();
-            int k = 0;
-            header = 1 ;
-           // while(--k){}
-        }
-        Questions2 Questions2(){
-        }
-}
+  }
 
 
 
