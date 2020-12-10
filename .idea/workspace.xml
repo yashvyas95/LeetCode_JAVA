@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Enumeration/EnumerationConcepts.java" afterDir="false" />
+    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Abstract classes and Overriding">
+      <change afterPath="$PROJECT_DIR$/src/com/Concepts/AbstractClasses/abstractClassesConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Interfaces$Lambdas/InterfaceConcepts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Cerification/Questions/Questions2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Concepts/Exceptions/Exceptions$Concepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Concepts/Enumeration/EnumerationConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Concepts/Enumeration/EnumerationConcepts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,39 +63,39 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exceptions$Concepts">
+  <component name="RunManager" selected="Application.abstractClassesConcepts">
+    <configuration name="EnumerationConcepts$two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concepts.Enumeration.EnumerationConcepts$two" />
+      <module name="Git_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Concepts.Enumeration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumerationConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concepts.Enumeration.EnumerationConcepts" />
+      <module name="Git_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Concepts.Enumeration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exceptions$Concepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Concepts.Exceptions.Exceptions$Concepts" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Concepts.Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.File.FileConcepts" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Concepts.File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Cerification.Questions.Questions" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Cerification.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ski" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Cerification.Questions.Ski" />
+    <configuration name="abstractClassesConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concepts.AbstractClasses.abstractClassesConcepts" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Cerification.Questions.*" />
+          <option name="PATTERN" value="com.Concepts.AbstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.abstractClassesConcepts" />
+        <item itemvalue="Application.EnumerationConcepts$two" />
+        <item itemvalue="Application.EnumerationConcepts" />
         <item itemvalue="Application.Exceptions$Concepts" />
         <item itemvalue="Application.Questions2" />
-        <item itemvalue="Application.Questions" />
-        <item itemvalue="Application.Ski" />
-        <item itemvalue="Application.FileConcepts" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607464955492</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Enumeration">
+      <created>1607531967271</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607531967271</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,65 +329,67 @@
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]" />
     <MESSAGE value="Concepts+Questions&#10;IN COMMENT WITH DIFFERENT ENTRY POINTS&#10;&#10;Questions - 2 Also Added&#10;&#10;STRUCTURE UPDATED - CLASSES [ CONTAINS some concept or question]&#10;&#10;FROM 35-&gt;OCP" />
     <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;1)Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;1)Exceptions" />
+    <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Enumeration" />
+    <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Abstract classes and Overriding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Abstract classes and Overriding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="6" key="#Project_Structure" timestamp="1604957603927">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="6" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1604957603927" />
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1605120909243">
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1607639611503">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605120909243" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1607464952877">
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1607639611503" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1607634565889">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1607464952877" />
-    <state width="896" height="168" key="GridCell.Tab.0.bottom" timestamp="1607477482824">
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1607634565889" />
+    <state width="1493" height="185" key="GridCell.Tab.0.bottom" timestamp="1607639764800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state width="896" height="168" key="GridCell.Tab.0.center" timestamp="1607477482824">
+    <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607639764800" />
+    <state width="1493" height="185" key="GridCell.Tab.0.center" timestamp="1607639764800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state width="896" height="168" key="GridCell.Tab.0.left" timestamp="1607477482824">
+    <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607639764800" />
+    <state width="1493" height="185" key="GridCell.Tab.0.left" timestamp="1607639764800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state width="896" height="168" key="GridCell.Tab.0.right" timestamp="1607477482824">
+    <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607639764800" />
+    <state width="1493" height="185" key="GridCell.Tab.0.right" timestamp="1607639764800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state width="896" height="168" key="GridCell.Tab.1.bottom" timestamp="1607477482824">
+    <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607639764800" />
+    <state width="1493" height="174" key="GridCell.Tab.1.bottom" timestamp="1607564466129">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state width="896" height="168" key="GridCell.Tab.1.center" timestamp="1607477482824">
+    <state width="1493" height="174" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
+    <state width="1493" height="174" key="GridCell.Tab.1.center" timestamp="1607564466129">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state width="896" height="168" key="GridCell.Tab.1.left" timestamp="1607477482824">
+    <state width="1493" height="174" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
+    <state width="1493" height="174" key="GridCell.Tab.1.left" timestamp="1607564466129">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state width="896" height="168" key="GridCell.Tab.1.right" timestamp="1607477482824">
+    <state width="1493" height="174" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
+    <state width="1493" height="174" key="GridCell.Tab.1.right" timestamp="1607564466129">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="896" height="168" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607477482824" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607465883396">
+    <state width="1493" height="174" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607634575075">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607465883396" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607634575075" />
     <state x="770" y="200" key="run.anything.popup" timestamp="1605641522229">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="770" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605641522229" />
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1607469265427">
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1607562650376">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607469265427" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607562650376" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -524,6 +533,11 @@
           <line>111</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/Enumeration/EnumerationConcepts.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
           <line>364</line>
@@ -571,6 +585,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/Enumeration/EnumerationConcepts.java</url>
+          <line>23</line>
+          <properties class="com.Concepts.Enumeration.EnumerationConcepts.two" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/AbstractClasses/abstractClassesConcepts.java</url>
+          <line>17</line>
+          <properties class="com.Concepts.AbstractClasses.abstractClassesConcepts" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
