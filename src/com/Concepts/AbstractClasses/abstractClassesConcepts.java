@@ -28,10 +28,24 @@ public class abstractClassesConcepts {
 
     }
     */
-    public static void main(String[] args){
-        three.BlackRhino b = new three().new BlackRhino();
-        b.eat();
-        b.showHorn();
+    interface Apple{}
+    interface Orange{}
+    class Gala implements Apple{}
+    class Tangerine implements Orange{}
+    final class Citrus extends Tangerine{}
+    public static void main(String[] args) {
+        abstractClassesConcepts obj = new abstractClassesConcepts();
+        abstractClassesConcepts.Gala g = obj.new Gala();
+        Tangerine t = obj.new Tangerine();
+        Citrus c = obj.new Citrus();
+        System.out.println(c instanceof Apple);
+        System.out.println(t instanceof Apple);
+        System.out.println(g instanceof Apple);
+        System.out.println(c instanceof Tangerine);
+        System.out.println(t instanceof Gala);
+
+
+
     }
     /*** NOW SAME CLASS WITH ABSTRACT USAGE    ********//////////
 
@@ -67,5 +81,21 @@ public class abstractClassesConcepts {
             }
         }
     }
+/*
+    static class four{
+         interface HasVocalCord{
+             abstract void canMakeSound();
+         }
+         public interface bark extends HasVocalCord{
+             public void bark();
+         }
+         interface Dog extends bark,HasVocalCord{
+             abstract int chew();
+         }
+    }
+  */
 
+    static class five{
+
+    }
 }
