@@ -28,11 +28,7 @@ public class abstractClassesConcepts {
 
     }
     */
-    interface Apple{}
-    interface Orange{}
-    class Gala implements Apple{}
-    class Tangerine implements Orange{}
-    final class Citrus extends Tangerine{}
+    /*
     public static void main(String[] args) {
         abstractClassesConcepts obj = new abstractClassesConcepts();
         abstractClassesConcepts.Gala g = obj.new Gala();
@@ -42,13 +38,14 @@ public class abstractClassesConcepts {
         System.out.println(t instanceof Apple);
         System.out.println(g instanceof Apple);
         System.out.println(c instanceof Tangerine);
-        System.out.println(t instanceof Gala);
+        System.out.println(t insta  nceof Gala);
 
 
 
     }
-    /*** NOW SAME CLASS WITH ABSTRACT USAGE    ********//////////
 
+     */
+    /*** NOW SAME CLASS WITH ABSTRACT USAGE    ********//////////
     static class two{
         abstract class Bird{
             public abstract String getName();
@@ -61,7 +58,6 @@ public class abstractClassesConcepts {
            public String getName(){ return "Stork!"; }
         }
     }
-
     /**********Inheritance using abtract classes*********///////
     // In following case abstract can implement ZERO or MORE methods of Subclasses without error
      static class three{
@@ -94,8 +90,34 @@ public class abstractClassesConcepts {
          }
     }
   */
-
     static class five{
+    interface Apple{}
+    interface Orange{}
+    class Gala implements Apple{}
+    class Tangerine implements Orange{}
+    final class Citrus extends Tangerine{}
+
+}
+
+    static class six{
 
     }
+
+    interface Jump{
+        static public int MAX = 3;
+    }
+    public abstract class Whale implements Jump{
+        public abstract void dive();
+      //  public static void main(String[] args){}
+    }
+    class Orca extends Whale{
+        public void dive(){
+            System.out.println("Orca Driving");
+        }
+        public void dive(int... depth){
+            System.out.println("Orca diving deeper"+MAX);
+        }
+    }
+
+
 }

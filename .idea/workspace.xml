@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MatrixHourGlass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MinSwaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/WonderLandQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/input04.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Concepts/AbstractClasses/abstractClassesConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Concepts/AbstractClasses/abstractClassesConcepts.java" afterDir="false" />
     </list>
@@ -9,9 +14,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="190" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -43,7 +45,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -60,14 +62,17 @@
       <recent name="" />
       <recent name="groovy.util.GroovyTestCase" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yash\IdeaProjects\Git_LeetCode\src\com\LeetCode\Solutions\HackerTest" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.abstractClassesConcepts">
-    <configuration name="EnumerationConcepts$two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.Enumeration.EnumerationConcepts$two" />
+  <component name="RunManager" selected="Application.MinSwaps">
+    <configuration name="ArrayManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.ArrayManipulation" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Concepts.Enumeration.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumerationConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.Enumeration.EnumerationConcepts" />
+    <configuration name="MatrixHourGlass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.MatrixHourGlass" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Concepts.Enumeration.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exceptions$Concepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.Exceptions.Exceptions$Concepts" />
+    <configuration name="MinSwaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.MinSwaps" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Concepts.Exceptions.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Questions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Cerification.Questions.Questions2" />
+    <configuration name="WonderLandQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.WonderLandQueue" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Cerification.Questions.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinSwaps" />
+        <item itemvalue="Application.WonderLandQueue" />
+        <item itemvalue="Application.ArrayManipulation" />
+        <item itemvalue="Application.MatrixHourGlass" />
         <item itemvalue="Application.abstractClassesConcepts" />
-        <item itemvalue="Application.EnumerationConcepts$two" />
-        <item itemvalue="Application.EnumerationConcepts" />
-        <item itemvalue="Application.Exceptions$Concepts" />
-        <item itemvalue="Application.Questions2" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607639855351</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Re-Ehancement-Concepts [wise]&#10;&#10;Advance Class design:&#10;&#10;abstractClasses, interfaces, member inner class concepts">
+      <created>1607720199585</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607720199585</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +348,8 @@
     <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;1)Exceptions" />
     <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Enumeration" />
     <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Abstract classes and Overriding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Abstract classes and Overriding" />
+    <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Advance Class design:&#10;&#10;abstractClasses, interfaces, member inner class concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-Ehancement-Concepts [wise]&#10;&#10;Advance Class design:&#10;&#10;abstractClasses, interfaces, member inner class concepts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="6" key="#Project_Structure" timestamp="1604957603927">
@@ -347,42 +360,42 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1607639611503" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1607639853487">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1607720197787">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1607639853487" />
-    <state width="1493" height="185" key="GridCell.Tab.0.bottom" timestamp="1607660240871">
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1607720197787" />
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1608172611533">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607660240871" />
-    <state width="1493" height="185" key="GridCell.Tab.0.center" timestamp="1607660240871">
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608172611533" />
+    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1608172611532">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607660240871" />
-    <state width="1493" height="185" key="GridCell.Tab.0.left" timestamp="1607660240871">
+    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608172611532" />
+    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1608172611532">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607660240871" />
-    <state width="1493" height="185" key="GridCell.Tab.0.right" timestamp="1607660240871">
+    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608172611532" />
+    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1608172611532">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607660240871" />
-    <state width="1493" height="174" key="GridCell.Tab.1.bottom" timestamp="1607564466129">
+    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608172611532" />
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1608172611797">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
-    <state width="1493" height="174" key="GridCell.Tab.1.center" timestamp="1607564466129">
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608172611797" />
+    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1608172611796">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
-    <state width="1493" height="174" key="GridCell.Tab.1.left" timestamp="1607564466129">
+    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608172611796" />
+    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1608172611796">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
-    <state width="1493" height="174" key="GridCell.Tab.1.right" timestamp="1607564466129">
+    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608172611796" />
+    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1608172611797">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607564466129" />
+    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608172611797" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607639856255">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -391,10 +404,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="770" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605641522229" />
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1607562650376">
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1608147586934">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607562650376" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608147586934" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -543,6 +556,96 @@
           <line>13</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Concepts/AbstractClasses/abstractClassesConcepts.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MatrixHourGlass.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MatrixHourGlass.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MatrixHourGlass.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MatrixHourGlass.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/WonderLandQueue.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/WonderLandQueue.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/WonderLandQueue.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/WonderLandQueue.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/WonderLandQueue.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MinSwaps.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MinSwaps.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MinSwaps.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MinSwaps.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/MinSwaps.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
           <line>364</line>
@@ -602,10 +705,34 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Concepts/AbstractClasses/abstractClassesConcepts.java</url>
           <line>17</line>
-          <properties class="com.Concepts.AbstractClasses.abstractClassesConcepts" method="main">
+          <properties class="com.Concepts.AbstractClasses.abstractClassesConcepts.two">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java</url>
+          <line>15</line>
+          <properties class="com.LeetCode.Solutions.HackerTest.ArrayManipulation" method="arrayManipulation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java</url>
+          <line>45</line>
+          <properties class="com.LeetCode.Solutions.HackerTest.ArrayManipulation" method="arrayManipulaion2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/WonderLandQueue.java</url>
+          <line>9</line>
+          <properties class="com.LeetCode.Solutions.HackerTest.WonderLandQueue" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="155" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -614,9 +741,15 @@
         <watch expression="condtition_in" />
         <watch expression="String.valueOf(s.charAt(0))" language="JAVA" />
       </configuration>
+      <configuration name="Application">
+        <watch expression="sum[7]" />
+      </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Git_LeetCode$WonderLandQueue.ic" NAME="WonderLandQueue Coverage Results" MODIFIED="1608162500475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.LeetCode.Solutions.HackerTest.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Git_LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1599624075372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Git_LeetCode$Questions.ic" NAME="Questions Coverage Results" MODIFIED="1604073915737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.Cerification.Questions.*</FILTER>
