@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/LeftRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java" afterDir="false" />
     </list>
@@ -62,7 +63,7 @@
       <recent name="C:\Users\Yash\IdeaProjects\Git_LeetCode\src\com\LeetCode\Solutions\HackerTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeftRotation">
+  <component name="RunManager" selected="Application.checkMangazine">
     <configuration name="ArrayManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.ArrayManipulation" />
       <module name="Git_LeetCode" />
@@ -89,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixHourGlass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.MatrixHourGlass" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MinSwaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.MinSwaps" />
       <module name="Git_LeetCode" />
@@ -115,8 +103,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WonderLandQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.WonderLandQueue" />
+    <configuration name="checkMangazine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.checkMangazine" />
+      <module name="Git_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.twoStrings" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeftRotation" />
+        <item itemvalue="Application.checkMangazine" />
         <item itemvalue="Application.ArrayManipulation" />
+        <item itemvalue="Application.twoStrings" />
+        <item itemvalue="Application.LeftRotation" />
         <item itemvalue="Application.MinSwaps" />
-        <item itemvalue="Application.WonderLandQueue" />
-        <item itemvalue="Application.MatrixHourGlass" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608172936260</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="HackerTest">
+      <created>1608226581065</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1608226581065</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,46 +372,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1607639611503" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1608172933671">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1608226578824">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1608172933671" />
-    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1608225763418">
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1608226578824" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1608263796391">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608225763418" />
-    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1608225763417">
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1608263796391">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608225763417" />
-    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1608225763417">
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1608263796391">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608225763417" />
-    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1608225763418">
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1608263796391">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608225763418" />
-    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1608225763673">
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1608263796380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608225763673" />
-    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1608225763673">
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
+    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1608263796380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608225763673" />
-    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1608225763673">
+    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
+    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1608263796380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608225763673" />
-    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1608225763673">
+    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
+    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1608263796380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608225763673" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608172941421">
+    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608226582841">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1608172941421" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1608226582841" />
     <state x="209" y="52" key="new project wizard" timestamp="1608177145987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -650,11 +658,6 @@
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="171" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/LeftRotation.java</url>
           <line>10</line>
           <option name="timeStamp" value="174" />
@@ -683,6 +686,51 @@
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/LeftRotation.java</url>
           <line>33</line>
           <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
@@ -773,14 +821,6 @@
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java</url>
-          <line>35</line>
-          <properties class="com.LeetCode.Solutions.HackerTest.ArrayManipulation" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="173" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/LeftRotation.java</url>
           <line>35</line>
           <properties class="com.LeetCode.Solutions.HackerTest.LeftRotation" method="rotLeft2">
@@ -788,16 +828,20 @@
           </properties>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
+          <line>22</line>
+          <properties class="com.LeetCode.Solutions.HackerTest.twoStrings" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="condtition_in" />
         <watch expression="String.valueOf(s.charAt(0))" language="JAVA" />
-      </configuration>
-      <configuration name="Application">
-        <watch expression="sum[7]" />
-        <watch expression="(a.length-1)/2" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

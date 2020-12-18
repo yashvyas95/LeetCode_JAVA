@@ -16,13 +16,13 @@ public class ArrayManipulation {
 
 
     static long arrayManipulation(int n, int[][] queries) {
-        int[] result = new int[n];
-        for(int[] q : queries){
-            for(int a = q[0]-1 ; a < q[1] ; a++){
-                result[a] += q[2];
+        long[] result = new long[n];
+        for(int i = 0  ; i < queries.length ; i++){
+            for(int a = queries[i][0]-1 ; a < queries[i][1] ; a++){
+                result[a] += queries[i][2];
             }
         }
-        int max = Arrays.stream(result).max().getAsInt();
+        long max = findmax(result);
         return max;
     }
     static long findmax(long[] q){
