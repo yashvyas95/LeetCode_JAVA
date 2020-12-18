@@ -1,28 +1,31 @@
 package com.LeetCode.Solutions.HackerTest;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Hashtable;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class twoStrings {
-    static String twoStrings(String s1, String s2) {
-        var z = s1.getBytes();
-        var z1 = s2.getBytes();
-        ArrayList<String> a = new ArrayList<>();
-        String resl = "";
-        int k = 0;
-        for(int i = 0 ; i < Math.min(s1.length(),s2.length());i++){
-            for(int j = 0 ; j < s2.length() ; j++){
-            if(z[i] == z1[j]){
-                resl = resl+z1[j];
-                k++;
+        static String twoStrings(String s1, String s2) {
+            boolean result = false;
+            HashSet<Character> c = new HashSet<>();
+            int k = 0;
+            for(char c1 : s1.toCharArray()){
+                c.add(c1);
             }
+            for(char c2 : s2.toCharArray()){
+                if(c.contains(c2)){
+                    result = true;
+                }
             }
+            if(result){return "YES";}
+            else{return "NO";}
         }
-        return resl;
-    }
     public static void main(String[] args){
-        String a = "ac";
-        String b = "bad";
+        String a = "hiw";
+        String b = "world";
         System.out.println(twoStrings(a,b));
     }
 }

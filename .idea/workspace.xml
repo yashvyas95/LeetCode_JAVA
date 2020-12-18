@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
@@ -63,7 +63,7 @@
       <recent name="C:\Users\Yash\IdeaProjects\Git_LeetCode\src\com\LeetCode\Solutions\HackerTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.checkMangazine">
+  <component name="RunManager" selected="Application.twoStrings">
     <configuration name="ArrayManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.ArrayManipulation" />
       <module name="Git_LeetCode" />
@@ -131,9 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.twoStrings" />
         <item itemvalue="Application.checkMangazine" />
         <item itemvalue="Application.ArrayManipulation" />
-        <item itemvalue="Application.twoStrings" />
         <item itemvalue="Application.LeftRotation" />
         <item itemvalue="Application.MinSwaps" />
       </list>
@@ -319,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608226581065</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="HackerTest">
+      <created>1608267732716</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608267732716</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,46 +379,50 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1607639611503" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1608226578824">
+    <state x="515" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608315202108">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1608226578824" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1608263796391">
+    <state x="515" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1608315202108" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1608267727760">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1608263796391">
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1608267727760" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1608316259267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1608263796391">
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608316259267" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1608316259267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1608263796391">
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608316259267" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1608316259267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608263796391" />
-    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1608263796380">
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608316259267" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1608316259267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
-    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1608263796380">
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608316259267" />
+    <state width="1493" height="285" key="GridCell.Tab.1.bottom" timestamp="1608316190722">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
-    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1608263796380">
+    <state width="1493" height="285" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608316190722" />
+    <state width="1493" height="285" key="GridCell.Tab.1.center" timestamp="1608316190722">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
-    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1608263796380">
+    <state width="1493" height="285" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608316190722" />
+    <state width="1493" height="285" key="GridCell.Tab.1.left" timestamp="1608316190721">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608263796380" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608226582841">
+    <state width="1493" height="285" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608316190721" />
+    <state width="1493" height="285" key="GridCell.Tab.1.right" timestamp="1608316190722">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1608226582841" />
+    <state width="1493" height="285" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608316190722" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608267741282">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1608267741282" />
     <state x="209" y="52" key="new project wizard" timestamp="1608177145987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -689,47 +700,32 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="182" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
-          <line>25</line>
+          <line>30</line>
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
-          <line>23</line>
+          <line>28</line>
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
-          <line>21</line>
+          <line>26</line>
           <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="187" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
-          <line>51</line>
+          <line>67</line>
           <option name="timeStamp" value="190" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="191" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
-          <line>19</line>
+          <line>16</line>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java</url>
-          <line>32</line>
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
+          <line>11</line>
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -827,14 +823,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="175" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/twoStrings.java</url>
-          <line>22</line>
-          <properties class="com.LeetCode.Solutions.HackerTest.twoStrings" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="186" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
