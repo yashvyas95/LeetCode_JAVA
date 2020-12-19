@@ -25,7 +25,7 @@ public class twoStrings {
         }
     public static void main(String[] args){
         String a = "hiw";
-        String b = "world";
+        String b = "worlwd";
         System.out.println(twoStrings(a,b));
     }
 }

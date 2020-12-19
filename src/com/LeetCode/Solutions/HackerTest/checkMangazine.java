@@ -6,24 +6,21 @@ import java.util.stream.Collectors;
 
 public class checkMangazine {
     static void checkMagazine(String[] magazine, String[] note) {
-        Hashtable<Integer, String> c = new Hashtable<>();
-        int counter=0;int counter1=0;
-        for(String n : magazine){
-            c.put(counter,n);
-            counter++;
+        HashSet<String> collec = new HashSet<>();
+        int counter1 = 0;
+        for(String i : magazine){
+            collec.add(i);
         }
-        for(String l : note){
-            if(c.containsValue(l)){
-                if((counter(note,l)<=counter(magazine,l))){
-                    counter1++;
-                }
-            }
-            else{
-                break;
+        for(String n : note){
+            if(collec.contains(n)){
+                if(Arrays.asList(magazine).stream().filter(c1->c1==n).collect(Collectors.toList()).size() >=Arrays.asList(note).stream().filter(c1->c1==n).collect(Collectors.toList()).size() )
+                counter1++;
             }
         }
+
         if(counter1==note.length){
             System.out.println("Yes");
+
         }
         else{
             System.out.println("No");
@@ -39,7 +36,6 @@ public class checkMangazine {
         }
         return result;
     }
-
     static void checkMagazine2(String[] mag,String[] note){
         Map<String,Integer> map = new TreeMap<String,Integer>() ;
         int k = 0 ;int k1 = 0;
@@ -60,11 +56,15 @@ public class checkMangazine {
             System.out.println("No");
         }
     }
+    static void checkMagazine3(String[] mag, String[] note){
+
+    }
+
 
     public static void main(String[] args){
 
-        String[] mag = new String[]{"give","me","one","grand","today","night","one"};
-        String[] note = new String[]{"give","one","one","grand","today","one"};
-        checkMagazine2(mag,note);
+        String[] mag = new String[]{"give","me","one","grand","today","night"};
+        String[] note = new String[]{"give","one","grand","today"};
+        checkMagazine(mag,note);
     }
 }
