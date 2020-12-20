@@ -6,26 +6,40 @@ import java.util.stream.Collectors;
 
 public class checkMangazine {
     static void checkMagazine(String[] magazine, String[] note) {
-        HashSet<String> collec = new HashSet<>();
-        int counter1 = 0;
-        for(String i : magazine){
-            collec.add(i);
-        }
-        for(String n : note){
-            if(collec.contains(n)){
-                if(Arrays.asList(magazine).stream().filter(c1->c1==n).collect(Collectors.toList()).size() >=Arrays.asList(note).stream().filter(c1->c1==n).collect(Collectors.toList()).size() )
-                counter1++;
+        HashMap<String,Integer> mag = new HashMap<>();
+        HashMap<String,Integer> no = new HashMap<>();
+        boolean con = false;
+        Integer occur ;
+        for(String s : magazine){
+            occur = mag.get(s);
+            if(occur==null){
+                mag.put(s,1);
+            }
+            else{
+                mag.put(s,occur+1);
             }
         }
-
-        if(counter1==note.length){
-            System.out.println("Yes");
-
+        for(String s : note){
+            occur = no.get(s);
+            if(occur==null){
+                no.put(s,1);
+            }
+            else{
+                no.put(s,occur+1);
+            }
+        }
+        for(String s : note){
+            if(!mag.containsKey(s) || mag.get(s) < no.get(s)){
+                con = true;
+                break;
+            }
+        }
+        if(con == true){
+            System.out.println("NO");
         }
         else{
-            System.out.println("No");
+            System.out.println("YES");
         }
-
     }
     static int counter(String[] collec,String target){
         int result = 0;

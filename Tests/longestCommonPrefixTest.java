@@ -8,7 +8,6 @@ class longestCommonPrefixTest {
     void longestCommonPrefixTest1(){
 
         String[] strs = {"aa","a"};
-        String result = longestCommonPrefix.longestCommonPrefix(strs);
-        assertEquals("a",result);
+        assertEquals("a",longestCommonPrefix.longestCommonPrefix(strs));
     }
 }

@@ -22,8 +22,7 @@ public class ArrayManipulation {
                 result[a] += queries[i][2];
             }
         }
-        long max = findmax(result);
-        return max;
+        return findmax(result);
     }
     static long findmax(long[] q){
         long max = 0;
