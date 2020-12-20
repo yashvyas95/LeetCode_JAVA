@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/greedyFloristTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/isValidStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/SherlockValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/greedyFlorist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/pairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/swapNodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/longestCommonPrefixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/longestCommonPrefixTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/ArrayManipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/checkMangazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/greedyFloristTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/greedyFloristTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
       <recent name="C:\Users\Yash\IdeaProjects\Git_LeetCode\src\com\LeetCode\Solutions\HackerTest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.greedyFloristTest.getMinimumCostTest">
+  <component name="RunManager" selected="JUnit.pairsTest">
     <configuration name="ArrayManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.ArrayManipulation" />
       <module name="Git_LeetCode" />
@@ -85,19 +81,6 @@
     </configuration>
     <configuration name="SherlockValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.SherlockValid" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="checkMangazine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.checkMangazine" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -129,13 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Git_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="pairsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.pairsTest" />
         <item itemvalue="JUnit.greedyFloristTest.getMinimumCostTest" />
         <item itemvalue="JUnit.isValidStringTest.isValidStringTest" />
         <item itemvalue="Application.SherlockValid" />
         <item itemvalue="Application.ArrayManipulation" />
-        <item itemvalue="Application.checkMangazine" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608352936383</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="HackerTest with TESTCASES">
+      <created>1608478653959</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1608478653959</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +381,8 @@
     <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Following is &#10;2)Abstract classes and Overriding" />
     <MESSAGE value="Re-Ehancement-Concepts [wise]&#10;&#10;Advance Class design:&#10;&#10;abstractClasses, interfaces, member inner class concepts" />
     <MESSAGE value="HackerTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerTest" />
+    <MESSAGE value="HackerTest with TESTCASES" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerTest with TESTCASES" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="6" key="#Project_Structure" timestamp="1608220115177">
@@ -397,46 +397,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="515" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1608393671880" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1608352932558">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1608478651201">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1608352932558" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1608478651201" />
     <state width="402" height="466" key="DebuggerActiveHint" timestamp="1608406878860">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="402" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1608406878860" />
-    <state width="1493" height="335" key="GridCell.Tab.0.bottom" timestamp="1608478300523">
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1608481111890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608478300523" />
-    <state width="1493" height="335" key="GridCell.Tab.0.center" timestamp="1608478300523">
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608481111890" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1608481111890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608478300523" />
-    <state width="1493" height="335" key="GridCell.Tab.0.left" timestamp="1608478300523">
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608481111890" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1608481111890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608478300523" />
-    <state width="1493" height="335" key="GridCell.Tab.0.right" timestamp="1608478300523">
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608481111890" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1608481111890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608478300523" />
-    <state width="1493" height="335" key="GridCell.Tab.1.bottom" timestamp="1608478301351">
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608481111890" />
+    <state width="1493" height="335" key="GridCell.Tab.1.bottom" timestamp="1608480975293">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608478301351" />
-    <state width="1493" height="335" key="GridCell.Tab.1.center" timestamp="1608478301351">
+    <state width="1493" height="335" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608480975293" />
+    <state width="1493" height="335" key="GridCell.Tab.1.center" timestamp="1608480975293">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608478301351" />
-    <state width="1493" height="335" key="GridCell.Tab.1.left" timestamp="1608478301351">
+    <state width="1493" height="335" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608480975293" />
+    <state width="1493" height="335" key="GridCell.Tab.1.left" timestamp="1608480975293">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608478301351" />
-    <state width="1493" height="335" key="GridCell.Tab.1.right" timestamp="1608478301351">
+    <state width="1493" height="335" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608480975293" />
+    <state width="1493" height="335" key="GridCell.Tab.1.right" timestamp="1608480975293">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608478301351" />
+    <state width="1493" height="335" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608480975293" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608352937701">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -788,18 +788,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/greedyFlorist.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="229" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/greedyFlorist.java</url>
-          <line>20</line>
+          <line>19</line>
           <option name="timeStamp" value="231" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/greedyFlorist.java</url>
-          <line>42</line>
+          <line>41</line>
           <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/pairsTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/pairs.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/pairs.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="238" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
