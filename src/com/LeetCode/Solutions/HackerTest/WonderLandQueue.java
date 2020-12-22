@@ -3,6 +3,7 @@ package com.LeetCode.Solutions.HackerTest;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.OptionalInt;
+import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -12,6 +13,8 @@ public class WonderLandQueue {
         int[] q1 = {2, 1, 5, 3, 4};
         int[] q2 = {1, 2, 5, 3, 7, 8, 6, 4};
         minimumBribes(q2);
+        Scanner s = new Scanner(System.in);
+        //Character.
     }
 
     static int stepsCounter(int[] q){
