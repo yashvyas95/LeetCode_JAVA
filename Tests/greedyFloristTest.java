@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
-import com.LeetCode.Solutions.HackerTest.greedyFlorist;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import com.LeetCode.Solutions.HackerTest.greedyFlorist;
 
 public class greedyFloristTest {
     @Test

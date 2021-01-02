@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="" />
+    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/comStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/tripleSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/comString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/tripleSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git_LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Git_LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/greedyFloristTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/greedyFloristTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,18 +42,17 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -60,53 +69,51 @@
       <recent name="C:\Users\Yash\IdeaProjects\Git_LeetCode\src\com\LeetCode\Solutions\HackerTest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.makeAnagramTest.makeAnagramTest">
-    <configuration name="Stringprefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.HackerTest.Stringprefix" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.HackerTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="alternatingCharsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.comStringTest.testMethod">
+    <configuration name="comStringTest.testMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Git_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="alternatingCharsTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="alternatingCharsTest.alternatingCharsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Git_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="alternatingCharsTest" />
-      <option name="METHOD_NAME" value="alternatingCharsTest" />
+      <option name="MAIN_CLASS_NAME" value="comStringTest" />
+      <option name="METHOD_NAME" value="testMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="makeAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="greedyFloristTest.getMinimumCostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Git_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="makeAnagramTest" />
+      <option name="MAIN_CLASS_NAME" value="greedyFloristTest" />
+      <option name="METHOD_NAME" value="getMinimumCostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestCommonPrefixTest.longestCommonPrefixTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Git_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="longestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="longestCommonPrefixTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Git_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="pairsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="makeAnagramTest.makeAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="tripleSumTest.triplesumtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Git_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="makeAnagramTest" />
-      <option name="METHOD_NAME" value="makeAnagramTest" />
+      <option name="MAIN_CLASS_NAME" value="tripleSumTest" />
+      <option name="METHOD_NAME" value="triplesumtest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.makeAnagramTest.makeAnagramTest" />
-        <item itemvalue="JUnit.makeAnagramTest" />
-        <item itemvalue="JUnit.alternatingCharsTest.alternatingCharsTest" />
-        <item itemvalue="JUnit.alternatingCharsTest" />
-        <item itemvalue="Application.Stringprefix" />
+        <item itemvalue="JUnit.comStringTest.testMethod" />
+        <item itemvalue="JUnit.tripleSumTest.triplesumtest" />
+        <item itemvalue="JUnit.longestCommonPrefixTest.longestCommonPrefixTest1" />
+        <item itemvalue="JUnit.pairsTest" />
+        <item itemvalue="JUnit.greedyFloristTest.getMinimumCostTest" />
       </list>
     </recent_temporary>
   </component>
@@ -330,21 +337,7 @@
       <option name="project" value="LOCAL" />
       <updated>1608478653959</updated>
     </task>
-    <task id="LOCAL-00029" summary="HackerTest with TESTCASES">
-      <created>1608482081168</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1608482081168</updated>
-    </task>
-    <task id="LOCAL-00030" summary="HackerTest with TESTCASES">
-      <created>1608604546908</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1608604546908</updated>
-    </task>
-    <option name="localTasksCounter" value="31" />
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,76 +381,6 @@
     <MESSAGE value="HackerTest" />
     <MESSAGE value="HackerTest with TESTCASES" />
     <option name="LAST_COMMIT_MESSAGE" value="HackerTest with TESTCASES" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="249" y="6" key="#Project_Structure" timestamp="1608220115177">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="249" y="6" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1608220115177" />
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1607639611503">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1607639611503" />
-    <state x="515" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608393671880">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="515" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1608393671880" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1608604543253">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1608604543253" />
-    <state width="402" height="466" key="DebuggerActiveHint" timestamp="1608406878860">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="402" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1608406878860" />
-    <state width="1493" height="376" key="GridCell.Tab.0.bottom" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state width="1493" height="376" key="GridCell.Tab.0.center" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state width="1493" height="376" key="GridCell.Tab.0.left" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state width="1493" height="376" key="GridCell.Tab.0.right" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state width="1493" height="376" key="GridCell.Tab.1.bottom" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state width="1493" height="376" key="GridCell.Tab.1.center" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state width="1493" height="376" key="GridCell.Tab.1.left" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state width="1493" height="376" key="GridCell.Tab.1.right" timestamp="1608616427765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="376" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608616427765" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608482083618">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1608482083618" />
-    <state x="209" y="52" key="new project wizard" timestamp="1608177145987">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="209" y="52" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1608177145987" />
-    <state x="770" y="200" key="run.anything.popup" timestamp="1608519947766">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="770" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1608519947766" />
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1608218356209">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608218356209" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -764,7 +687,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/alternatingCharacter.java</url>
           <line>16</line>
-          <option name="timeStamp" value="200" />
+          <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/SherlockValid.java</url>
@@ -812,79 +735,19 @@
           <option name="timeStamp" value="238" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/stringAbbrevationTest.java</url>
+          <url>file://$PROJECT_DIR$/Tests/longestCommonPrefixTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/comStringTest.java</url>
           <line>12</line>
-          <option name="timeStamp" value="239" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/stringAbbrevation.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="242" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/stringAbbrevationTest.java</url>
-          <line>20</line>
           <option name="timeStamp" value="245" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/stringAbbrevationTest.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="246" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/stringAbbrevationTest.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="248" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/stringAbbrevationTest.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="252" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/stringAbbrevation.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="254" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/minMaxriddleTest.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="255" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/commonprefixTest.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="259" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/Stringprefix.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="260" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/Stringprefix.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="262" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/Stringprefix.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="263" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/alternatingCharacter.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="264" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/makeAnagram.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="265" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tests/makeAnagramTest.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="274" />
+          <url>file://$PROJECT_DIR$/Tests/comStringTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="251" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
@@ -1006,6 +869,22 @@
           </properties>
           <option name="timeStamp" value="222" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/tripleSum.java</url>
+          <line>5</line>
+          <properties class="com.LeetCode.Solutions.HackerTest.tripleSum" method="triplets">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/HackerTest/comString.java</url>
+          <line>6</line>
+          <properties class="com.LeetCode.Solutions.HackerTest.comString" method="commonChild">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -1014,6 +893,12 @@
       </pinned-members>
     </pin-to-top-manager>
     <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="condtition_in" />
+        <watch expression="map" />
+        <watch expression="map.entrySet().toArray()[0]" />
+        <watch expression="c1" language="JAVA" />
+      </configuration>
       <configuration name="Application">
         <watch expression="map" />
       </configuration>
@@ -1023,10 +908,10 @@
     <SUITE FILE_PATH="coverage/Git_LeetCode$WonderLandQueue.ic" NAME="WonderLandQueue Coverage Results" MODIFIED="1608162500475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.LeetCode.Solutions.HackerTest.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Git_LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1599624075372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Git_LeetCode$SherlockValid.ic" NAME="SherlockValid Coverage Results" MODIFIED="1608406415136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.LeetCode.Solutions.HackerTest.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Git_LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1599624075372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Git_LeetCode$Questions.ic" NAME="Questions Coverage Results" MODIFIED="1604073915737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.Cerification.Questions.*</FILTER>
     </SUITE>
