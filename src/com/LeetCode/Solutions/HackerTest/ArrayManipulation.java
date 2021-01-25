@@ -13,7 +13,7 @@ import java.util.Arrays;
 import java.util.stream.Collectors;
 
 public class ArrayManipulation {
-
+/*
 
     static long arrayManipulation(int n, int[][] queries) {
         long[] result = new long[n];
@@ -47,5 +47,25 @@ public class ArrayManipulation {
 
 
     }
+
+
+ */
+
+    public static long arrayManipulation(int n, int[][] queries) {
+        int[] array = new int[n];
+        for(int[] i : queries){
+            array[i[0]-1]+=i[2];
+            array[i[1]-1]=(0-i[2]);
+        }
+        int sum_running = 0;
+        for(int i : array){
+            if(i>0){
+                sum_running+=i;
+            }
+        }
+        return sum_running;
+    }
+
+
     }
 
