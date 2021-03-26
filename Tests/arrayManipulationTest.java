@@ -7,6 +7,14 @@ public class arrayManipulationTest {
 
         @Test
         void methodTest(){
-                assertEquals(,);
+            int[][] a = new int[3][];
+            a[0] = new int[3];
+            a[0] = new int[]{1, 2, 100};
+            a[1] = new int[3];
+            a[1] = new int[]{2, 5, 100};
+            a[2] = new int[3];
+            a[2] = new int[]{3, 4, 100};
+            assertEquals(200, ArrayManipulation.arrayManipulation(10, a));
+
         }
 }

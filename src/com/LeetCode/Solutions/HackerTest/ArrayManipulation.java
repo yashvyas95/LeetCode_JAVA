@@ -53,17 +53,20 @@ public class ArrayManipulation {
 
     public static long arrayManipulation(int n, int[][] queries) {
         int[] array = new int[n];
-        for(int[] i : queries){
-            array[i[0]-1]+=i[2];
-            array[i[1]-1]=(0-i[2]);
+        for (int[] i : queries) {
+            array[i[0] - 1] += i[2];
+            array[i[1] - 1] = (i[2]);
         }
-        int sum_running = 0;
-        for(int i : array){
-            if(i>0){
-                sum_running+=i;
+        int current = 0;
+        for (int i : array) {
+            if (i > 0) {
+                current += i;
+            } else {
+                current -= i;
             }
         }
-        return sum_running;
+
+        return (Arrays.stream(array).max().getAsInt());
     }
 
 

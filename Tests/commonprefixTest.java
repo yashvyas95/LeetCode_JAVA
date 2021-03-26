@@ -2,7 +2,7 @@
 import com.LeetCode.Solutions.HackerTest.Stringprefix;
 import com.LeetCode.Solutions.HackerTest.minMaxriddle;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Assertions;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import com.LeetCode.Solutions.HackerTest.Stringprefix.*;
 
 import java.awt.*;

@@ -6,8 +6,5 @@ public class fibonacciSeries {
             return n < 2 ? n : fibonacci(n-1) + fibonacci(n-2);
     }
 
-    public static int fib(int n){
-        return 0;
-    }   
 
 }

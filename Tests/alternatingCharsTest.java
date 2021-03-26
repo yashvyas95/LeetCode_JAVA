@@ -7,6 +7,7 @@ public class alternatingCharsTest {
     @Test
     void alternatingCharsTest(){
         String[] s = new String[]{"AAABBB","ABABAB"};
+
         assertEquals(4,alternatingCharacter.alternatingCharactersmethod(s[0]));
     }
 }
