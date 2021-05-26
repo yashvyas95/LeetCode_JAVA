@@ -30,6 +30,27 @@ public class UsingStringNStringBuilder {
         System.out.println("Strubg .stripTrailing " + s.stripTrailing());
     }
 
+    public void someMoreStringMethods() {
+        String s = new String("abc");
+        s.repeat(2);
+        s.equalsIgnoreCase("abc");
+        s.intern();
+        /*
+            INTERN() METHOD
+            Returns: A canonical representation for the string object.
+            A pool of strings, initially empty, is mainted privately by string class.
+            When intern is invoked -> if pool already contains a string equal to
+                    String object as determined by equals(obj) method,
+                    then that string is returned.
+                    Otherwise string object is added to the pool and reference is returned.
+
+            String returned will have same contents as string invoked on.
+            but is guranteed to be from a pool of unique strings.
+         */
+        s.compareTo(s);
+        System.out.println(s);
+    }
+
     public void stringBuilderConcat() {
         System.out.println(new StringBuilder("world").insert(0, "hello "));
     }
@@ -47,6 +68,8 @@ public class UsingStringNStringBuilder {
         //  classObj.stringThrowingSTRINGIndexOutOfBound();
         //  classObj.stringISIMMUTABLE();
         //  classObj.stringMethods();
-        classObj.stringBuilderConcat();
+        //   classObj.stringBuilderConcat();
+
+        classObj.someMoreStringMethods();
     }
 }

@@ -1,55 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="Practice-Problem-Solving">
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/UsingPrimitiveAndWrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/UsingStringNStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/operatorsPromotionNCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Variables/accessingInnerClassVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Concepts/Variables/variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/DesignHashSet/DesignHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MakeSumDivisible/MakeSumDivisible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/UserActiveMinutes/UserActiveMinutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/checkRecord/checkRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/companyNameSubsetList/subsetCompanyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/dirtyPincodes/DirtyZipCodes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/dirtyPincodes/ZipCodes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/dirtyPincodes/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/dirtyPincodes/solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/findPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/goodPairs/goodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/makeMaxNumber/makeMaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/mapSum/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithms/Dijkstra.java" afterDir="false" />
+    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/AIM-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/forLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/switchLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/variableHiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/Aim-2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/InnerClassInsideMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/overLoadingMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BinaryLongestZero/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/CountInversion/countInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MinAbsDiff/solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/AreaCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/Fraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/FractionAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/FractionAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/MixedFraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/MixedFraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/ArrayManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/ArrayManipulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/SherlockandAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/SherlockandAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/repeatingString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/repeatingString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/stringValidity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/stringValidity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Issubsquence/IsSubSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Issubsquence/IsSubSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KweakestRow/KweakestRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KweakestRow/KweakestRow.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/intersectionTwoArrays/interSectionTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/intersectionTwoArrays/interSectionTwoArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isValidSudoku/isValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isValidSudoku/isValidSudoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/questions/Rainbow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/questions/Rainbow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/repeatedStringMatch/repeatedStringMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/repeatedStringMatch/repeatedStringMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/sameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/sameTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sum1DArray/sum1DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sum1DArray/sum1DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Git_LeetCode/SherlockAnagramTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Git_LeetCode/SherlockAnagramTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Git_LeetCode/arrayManipulationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Git_LeetCode/arrayManipulationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Git_LeetCode/contentExtractorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Git_LeetCode/contentExtractorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Git_LeetCode/jumpingOnCloudTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Git_LeetCode/jumpingOnCloudTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CHAPTER/ONE/UsingStringNStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/UsingStringNStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/CHAPTER/ONE/operatorsPromotionNCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/operatorsPromotionNCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,13 +88,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.operatorsPromotionNCasting">
-    <configuration name="UsingPrimitiveAndWrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CHAPTER.ONE.UsingPrimitiveAndWrapperClasses" />
+  <component name="RunManager" selected="Application.solution">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.Main" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CHAPTER.ONE.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingStringNStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CHAPTER.ONE.UsingStringNStringBuilder" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.BinaryLongestZero.Solution" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CHAPTER.ONE.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.BinaryLongestZero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="accessingInnerClassVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.Variables.accessingInnerClassVariables" />
+    <configuration name="activityNotification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.AcitivityNotification.activityNotification" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Concepts.Variables.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.AcitivityNotification.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operatorsPromotionNCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CHAPTER.ONE.operatorsPromotionNCasting" />
+    <configuration name="countInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.CountInversion.countInversion" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CHAPTER.ONE.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.CountInversion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Concepts.Variables.variables" />
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.MinAbsDiff.solution" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Concepts.Variables.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.MinAbsDiff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.operatorsPromotionNCasting" />
-        <item itemvalue="Application.UsingStringNStringBuilder" />
-        <item itemvalue="Application.UsingPrimitiveAndWrapperClasses" />
-        <item itemvalue="Application.accessingInnerClassVariables" />
-        <item itemvalue="Application.variables" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.countInversion" />
+        <item itemvalue="Application.activityNotification" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616730429535</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="CHAPTERS-WITH-IN-DEPTH-RULE-DISCUSSION">
+      <created>1619729805013</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1619729805013</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,7 +446,8 @@
     <MESSAGE value="HackerTest with TESTCASES&#10;&#10;/" />
     <MESSAGE value="Updates" />
     <MESSAGE value="Practice-Problem-Solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice-Problem-Solving" />
+    <MESSAGE value="CHAPTERS-WITH-IN-DEPTH-RULE-DISCUSSION" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHAPTERS-WITH-IN-DEPTH-RULE-DISCUSSION" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1275,13 +1254,63 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/companyNameSubsetList/subsetCompanyName.java</url>
-          <line>52</line>
+          <line>55</line>
           <option name="timeStamp" value="428" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/companyNameSubsetList/subsetCompanyName.java</url>
           <line>9</line>
           <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/BinaryLongestZero/Solution.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/CountInversion/countInversion.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/CountInversion/countInversion.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MinAbsDiff/solution.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="450" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
@@ -1501,15 +1530,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java</url>
-          <line>12</line>
-          <properties class="com.LeetCode.Solutions.Main" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="306" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java</url>
-          <line>18</line>
+          <line>22</line>
           <properties class="com.LeetCode.Solutions.Main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1667,6 +1688,30 @@
           </properties>
           <option name="timeStamp" value="422" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
+          <line>20</line>
+          <properties class="com.CHAPTER.TWO.Child" method="getH">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
+          <line>13</line>
+          <properties class="com.CHAPTER.TWO.Parent" method="getH">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
+          <line>31</line>
+          <properties class="com.LeetCode.Solutions.AcitivityNotification.activityNotification" method="solve">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mapSum/solution.java</url>
           <line>19</line>
@@ -1687,6 +1732,9 @@
         <watch expression="map" />
         <watch expression="map.entrySet().toArray()[0]" />
         <watch expression="c1" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="expenditure.get(i)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

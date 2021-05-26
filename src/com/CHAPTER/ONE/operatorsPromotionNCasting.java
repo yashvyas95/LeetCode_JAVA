@@ -72,8 +72,21 @@ public class operatorsPromotionNCasting {
         }
     }
 
+    public void castingErrors() {
+        class x {
+            int val = 10;
+        }
+        class y extends x {
+            y val = null;
+        }
+        y y = new y();
+        //int k = (x) y.val; // CASTING ERROR
+        // IN THIS CASE PRIMTIVE IS BEING ASSIGNED OBJECT VALUE;
+    }
+
     public static void main(String[] args) {
         operatorsPromotionNCasting classObj = new operatorsPromotionNCasting();
         classObj.modulusOperatorCanBeUsedWith();
+
     }
 }
