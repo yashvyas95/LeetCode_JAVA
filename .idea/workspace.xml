@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems">
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BFS/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BFS/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BinaryTreeHeight/HeightBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Nearest_Clone/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HourGlass/HourGlass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HourGlass/inputData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MinTime/MinTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/ThreeSum/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoStacks/TwoStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoStacks/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/checkBalancedString/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/checkBalancedString/testCase" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/containsDuplicate/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/countTriplets/countTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/findPermutations/findPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/maxRegion/maxRegion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/princeton/Assignments/Assign1/HelloGoodBye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/princeton/Assignments/Assign1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/princeton/Assignments/Assign1/RandomWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +176,7 @@
       <workItem from="1648514665012" duration="5000" />
       <workItem from="1650771743433" duration="757000" />
       <workItem from="1651346006881" duration="1000000" />
-      <workItem from="1651358120033" duration="1527000" />
+      <workItem from="1651358120033" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="Git_LeetCode_Branch_Init">
       <created>1599589572793</created>
@@ -444,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622050967639</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="LeetCode - Practice Problems">
+      <created>1651360307977</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651360307977</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1392,7 +1364,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java</url>
-          <line>46</line>
+          <line>44</line>
           <option name="timeStamp" value="474" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1402,12 +1374,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
-          <line>45</line>
+          <line>44</line>
           <option name="timeStamp" value="485" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
-          <line>46</line>
+          <line>45</line>
           <option name="timeStamp" value="486" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1422,7 +1394,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/countTriplets/countTriplets.java</url>
-          <line>37</line>
+          <line>40</line>
           <option name="timeStamp" value="489" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1432,22 +1404,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java</url>
-          <line>6</line>
+          <line>8</line>
           <option name="timeStamp" value="491" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="493" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java</url>
-          <line>12</line>
+          <line>15</line>
           <option name="timeStamp" value="494" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java</url>
-          <line>25</line>
+          <line>27</line>
           <option name="timeStamp" value="496" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1497,17 +1469,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
-          <line>121</line>
+          <line>124</line>
           <option name="timeStamp" value="509" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
-          <line>63</line>
+          <line>64</line>
           <option name="timeStamp" value="512" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
-          <line>72</line>
+          <line>73</line>
           <option name="timeStamp" value="513" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1517,12 +1489,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/containsDuplicate/solution.java</url>
-          <line>39</line>
+          <line>44</line>
           <option name="timeStamp" value="517" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/containsDuplicate/solution.java</url>
-          <line>21</line>
+          <line>26</line>
           <option name="timeStamp" value="518" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -1743,7 +1715,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java</url>
-          <line>48</line>
+          <line>46</line>
           <properties class="com.LeetCode.Solutions.Main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1935,7 +1907,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
-          <line>44</line>
+          <line>43</line>
           <properties class="com.LeetCode.Solutions.TraversalPreOrder.TraversalPreOrder" method="main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1943,7 +1915,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java</url>
-          <line>9</line>
+          <line>11</line>
           <properties class="com.LeetCode.Solutions.RecursiveSum.RecursiveSum" method="superDigit">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1951,7 +1923,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java</url>
-          <line>16</line>
+          <line>19</line>
           <properties class="com.LeetCode.Solutions.RotateLeft.RotateLeft" method="rotateLeft">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1967,7 +1939,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
-          <line>45</line>
+          <line>47</line>
           <properties class="com.LeetCode.Solutions.Graph_Rodes.Result" method="roadsAndLibraries">
             <option name="EMULATED" value="true" />
           </properties>
