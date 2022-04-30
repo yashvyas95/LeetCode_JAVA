@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/AIM-1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/forLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/switchLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/THREE/variableHiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/Aim-2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/InnerClassInsideMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/overLoadingMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BinaryLongestZero/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/CountInversion/countInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MinAbsDiff/solution.java" afterDir="false" />
+    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems">
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BFS/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BFS/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BinaryTreeHeight/HeightBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Nearest_Clone/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HourGlass/HourGlass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/HourGlass/inputData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MinTime/MinTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/ThreeSum/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoStacks/TwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoStacks/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/checkBalancedString/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/checkBalancedString/testCase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/containsDuplicate/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/countTriplets/countTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/findPermutations/findPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/maxRegion/maxRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/princeton/Assignments/Assign1/HelloGoodBye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/princeton/Assignments/Assign1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/princeton/Assignments/Assign1/RandomWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CHAPTER/ONE/UsingStringNStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/UsingStringNStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/CHAPTER/ONE/operatorsPromotionNCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CHAPTER/ONE/operatorsPromotionNCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +57,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1k4QkLuCn3oIgbma4RktQjxhGPB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,19 +79,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaFx_Game" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.LeetCode.Solutions.TwoStacks" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Itachi_yv\IdeaProjects\LeetCode_JAVA\src\com\LeetCode\Solutions\Graph_Rodes" />
       <recent name="C:\Users\Itachi_yv\IdeaProjects\LeetCode_JAVA\src\com\LeetCode\Solutions\Fractions" />
       <recent name="C:\Users\Itachi_yv\IdeaProjects\LeetCode_JAVA\src\com\LeetCode\Solutions\questions" />
       <recent name="C:\Users\Yash\IdeaProjects\Git_LeetCode\src\com\LeetCode\Solutions\HackerTest" />
@@ -89,12 +116,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.solution">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.Main" />
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.List.List" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.BinaryLongestZero.Solution" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.ThreeSum.ThreeSum" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.BinaryLongestZero.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.ThreeSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,25 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="activityNotification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.AcitivityNotification.activityNotification" />
+    <configuration name="findPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.findPermutations.findPermutations" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.AcitivityNotification.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.CountInversion.countInversion" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.CountInversion.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.findPermutations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +156,24 @@
       </method>
     </configuration>
     <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.MinAbsDiff.solution" />
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.containsDuplicate.solution" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.MinAbsDiff.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.containsDuplicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.Graph_Rodes.solution2" />
+      <module name="Git_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LeetCode.Solutions.Graph_Rodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,10 +184,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.solution" />
-        <item itemvalue="Application.countInversion" />
-        <item itemvalue="Application.activityNotification" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.findPermutations" />
+        <item itemvalue="Application.solution2" />
+        <item itemvalue="Application.List" />
+        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +202,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599423042740</updated>
+      <workItem from="1644020132073" duration="3027000" />
+      <workItem from="1644265471226" duration="33000" />
+      <workItem from="1645202859779" duration="4291000" />
+      <workItem from="1645753659442" duration="775000" />
+      <workItem from="1648435125245" duration="1724000" />
+      <workItem from="1648475547645" duration="648000" />
+      <workItem from="1648514665012" duration="5000" />
+      <workItem from="1650771743433" duration="757000" />
+      <workItem from="1651346006881" duration="1000000" />
+      <workItem from="1651358120033" duration="1527000" />
     </task>
     <task id="LOCAL-00001" summary="Git_LeetCode_Branch_Init">
       <created>1599589572793</created>
@@ -400,8 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1619729805013</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="LeetCode - Practice Problems">
+      <created>1622050967639</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1622050967639</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -447,7 +494,8 @@
     <MESSAGE value="Updates" />
     <MESSAGE value="Practice-Problem-Solving" />
     <MESSAGE value="CHAPTERS-WITH-IN-DEPTH-RULE-DISCUSSION" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHAPTERS-WITH-IN-DEPTH-RULE-DISCUSSION" />
+    <MESSAGE value="LeetCode - Practice Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode - Practice Problems" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1274,32 +1322,32 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
-          <line>18</line>
+          <line>20</line>
           <option name="timeStamp" value="438" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/BinaryLongestZero/Solution.java</url>
-          <line>36</line>
+          <line>37</line>
           <option name="timeStamp" value="441" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
-          <line>56</line>
+          <line>57</line>
           <option name="timeStamp" value="442" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="445" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
-          <line>53</line>
+          <line>54</line>
           <option name="timeStamp" value="446" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/CountInversion/countInversion.java</url>
-          <line>27</line>
+          <line>30</line>
           <option name="timeStamp" value="448" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1309,8 +1357,173 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MinAbsDiff/solution.java</url>
-          <line>71</line>
+          <line>73</line>
           <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoStacks/TwoStacks.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/countTriplets/countTriplets.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/countTriplets/countTriplets.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MinTime/MinTime.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/ThreeSum/ThreeSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/List/List.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/containsDuplicate/solution.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/containsDuplicate/solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="518" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
@@ -1530,7 +1743,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Main.java</url>
-          <line>22</line>
+          <line>48</line>
           <properties class="com.LeetCode.Solutions.Main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1690,7 +1903,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
-          <line>20</line>
+          <line>23</line>
           <properties class="com.CHAPTER.TWO.Child" method="getH">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1698,7 +1911,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/CHAPTER/TWO/overRidingNPolymorphism.java</url>
-          <line>13</line>
+          <line>14</line>
           <properties class="com.CHAPTER.TWO.Parent" method="getH">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1706,11 +1919,59 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/AcitivityNotification/activityNotification.java</url>
-          <line>31</line>
+          <line>32</line>
           <properties class="com.LeetCode.Solutions.AcitivityNotification.activityNotification" method="solve">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MaxArraySum/solution.java</url>
+          <line>18</line>
+          <properties class="com.LeetCode.Solutions.MaxArraySum.solution" method="maxSubsetSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.java</url>
+          <line>44</line>
+          <properties class="com.LeetCode.Solutions.TraversalPreOrder.TraversalPreOrder" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.java</url>
+          <line>9</line>
+          <properties class="com.LeetCode.Solutions.RecursiveSum.RecursiveSum" method="superDigit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/RotateLeft/RotateLeft.java</url>
+          <line>16</line>
+          <properties class="com.LeetCode.Solutions.RotateLeft.RotateLeft" method="rotateLeft">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/ThreeSum/ThreeSum.java</url>
+          <line>6</line>
+          <properties class="com.LeetCode.Solutions.ThreeSum.ThreeSum" method="threeSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="507" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Graph_Rodes/solution2.java</url>
+          <line>45</line>
+          <properties class="com.LeetCode.Solutions.Graph_Rodes.Result" method="roadsAndLibraries">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="514" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mapSum/solution.java</url>
@@ -1723,7 +1984,7 @@
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="com.LeetCode.Solutions.sameTree.TreeNode" memberName="val" />
-        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
     <watches-manager>
@@ -1739,15 +2000,18 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Git_LeetCode$WonderLandQueue.ic" NAME="WonderLandQueue Coverage Results" MODIFIED="1608162500475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.LeetCode.Solutions.HackerTest.*</FILTER>
+    <SUITE FILE_PATH="coverage/Git_LeetCode$Questions.ic" NAME="Questions Coverage Results" MODIFIED="1604073915737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Cerification.Questions.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Git_LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1599624075372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LeetCode_JAVA$List.ic" NAME="List Coverage Results" MODIFIED="1632249538143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.LeetCode.Solutions.List.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Git_LeetCode$SherlockValid.ic" NAME="SherlockValid Coverage Results" MODIFIED="1608406415136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.LeetCode.Solutions.HackerTest.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Git_LeetCode$Questions.ic" NAME="Questions Coverage Results" MODIFIED="1604073915737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.Cerification.Questions.*</FILTER>
+    <SUITE FILE_PATH="coverage/Git_LeetCode$WonderLandQueue.ic" NAME="WonderLandQueue Coverage Results" MODIFIED="1608162500475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.LeetCode.Solutions.HackerTest.*</FILTER>
     </SUITE>
   </component>
 </project>
