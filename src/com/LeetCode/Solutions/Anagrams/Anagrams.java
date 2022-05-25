@@ -7,8 +7,9 @@ public class Anagrams {
 
     public static void main(String[] args) {
 
-        String s = "ifailuhkqq";
-        var x = sherlockAndAnagrams(s);
+        String s = "aacc";
+        var x = "ccac";
+        bestSolution(s,x);
     }
 
     public static int sherlockAndAnagrams(String s) {
@@ -56,6 +57,58 @@ public class Anagrams {
             }
         }
 
+        return true;
+    }
+
+    public static boolean isAnagram(String s , String t){
+        var char_array = s.toCharArray();
+        var char_array2 = t.toCharArray();
+        HashMap<Character,Integer> map = new HashMap();
+
+        if(char_array.length!=char_array2.length)
+            return false;
+
+        //BIG_o(n)
+        for(char c : char_array){
+            if(map.containsKey(c)){
+                map.put(c,map.get(c)+1);
+            }
+            else{
+                map.put(c,1);
+            }
+        }
+        int temp_length = char_array.length;
+        //Big o(n)
+        for(char c : char_array2){
+            if(!map.containsKey(c))
+                return false;
+            else{
+                map.put(c,map.get(c)-1);
+                if(map.get(c)==0){map.remove(c);}
+
+            }
+
+        }
+
+        if(map.size()>0)
+            return false;
+        return true;
+    }
+
+    public static boolean bestSolution(String s , String t){
+        int[] map = new int[26];
+        for(char c : s.toCharArray()){
+            map[c-'a'] += 1;
+        }
+        for(char c : t.toCharArray()){
+            map[c-'a'] -= 1;
+        }
+
+        for(int i : map){
+            if( i != 0){
+                return false;
+            }
+        }
         return true;
     }
 }

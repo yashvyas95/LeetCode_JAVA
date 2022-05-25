@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems" />
+    <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems">
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BinarySearch/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/CountUniquecharacterInSubstring/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/FloodFill/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/LRUCache/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/LastStoneWeight/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MinStack/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoSums/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/climbSteps/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/countIslands/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/invertBinaryTree/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isMonoTone/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isTreeBalanced/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/kthLargestElement/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/maxProfit/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/mergeTwoLinkedList/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/reverseLinkedList/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/sameBinaryTree/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/uniqueEmails/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ProjectEuler/p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algoDesignQuestion/p2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Anagrams/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Anagrams/Anagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$compareCityRodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$compareCityRodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RotateLeft/RotateLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RotateLeft/RotateLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ThreeSum/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ThreeSum/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkBalancedString/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkBalancedString/solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/containsDuplicate/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/containsDuplicate/solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/countTriplets/countTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/countTriplets/countTriplets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/AllPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/AllPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/findPermutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/findPermutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxRegion/maxRegion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxRegion/maxRegion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isPalindrome/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isPalindrome/isPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +62,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -31,7 +80,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1k4QkLuCn3oIgbma4RktQjxhGPB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,13 +131,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.solution">
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.List.List" />
+  <component name="RunManager" selected="Application.tester">
+    <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ProjectEuler.p1" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.List.*" />
+          <option name="PATTERN" value="com.ProjectEuler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.ThreeSum.ThreeSum" />
+    <configuration name="solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.LRUCache.solution" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.ThreeSum.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.LRUCache.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.findPermutations.findPermutations" />
+    <configuration name="solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.isMonoTone.solution" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.findPermutations.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.isMonoTone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.containsDuplicate.solution" />
+    <configuration name="solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.CountUniquecharacterInSubstring.solution" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.containsDuplicate.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.CountUniquecharacterInSubstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.Graph_Rodes.solution2" />
+    <configuration name="tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.findAllConcatenatedWords.tester" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.Graph_Rodes.*" />
+          <option name="PATTERN" value="com.LeetCode.Solutions.findAllConcatenatedWords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.solution" />
-        <item itemvalue="Application.findPermutations" />
-        <item itemvalue="Application.solution2" />
-        <item itemvalue="Application.List" />
-        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.tester" />
+        <item itemvalue="Application.solution (2)" />
+        <item itemvalue="Application.p1" />
+        <item itemvalue="Application.solution (5)" />
+        <item itemvalue="Application.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +227,19 @@
       <workItem from="1648514665012" duration="5000" />
       <workItem from="1650771743433" duration="757000" />
       <workItem from="1651346006881" duration="1000000" />
-      <workItem from="1651358120033" duration="1839000" />
+      <workItem from="1651358120033" duration="13057000" />
+      <workItem from="1651452160846" duration="13185000" />
+      <workItem from="1651712418917" duration="4047000" />
+      <workItem from="1651846267288" duration="632000" />
+      <workItem from="1651846976900" duration="2625000" />
+      <workItem from="1651949448816" duration="2421000" />
+      <workItem from="1652063384500" duration="3801000" />
+      <workItem from="1652409382120" duration="2632000" />
+      <workItem from="1652480162049" duration="1212000" />
+      <workItem from="1653063767655" duration="1191000" />
+      <workItem from="1653145408253" duration="2694000" />
+      <workItem from="1653187018146" duration="1098000" />
+      <workItem from="1653278892807" duration="10055000" />
     </task>
     <task id="LOCAL-00001" summary="Git_LeetCode_Branch_Init">
       <created>1599589572793</created>
@@ -416,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651360307977</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="LeetCode - Practice Problems">
+      <created>1651360382675</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651360382675</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1033,11 +1103,6 @@
           <option name="timeStamp" value="324" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="325" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/solution.java</url>
           <line>61</line>
           <option name="timeStamp" value="327" />
@@ -1424,28 +1489,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="498" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="499" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
-          <line>79</line>
+          <line>132</line>
           <option name="timeStamp" value="500" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
-          <line>76</line>
+          <line>129</line>
           <option name="timeStamp" value="501" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="502" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/MinTime/MinTime.java</url>
@@ -1496,6 +1546,221 @@
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/containsDuplicate/solution.java</url>
           <line>26</line>
           <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoSums/solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/isPalindrome/isPalindrome.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/isPalindrome/isPalindrome.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/BinarySearch/solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/reverseLinkedList/solution.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/reverseLinkedList/solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/reverseLinkedList/solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mergeTwoLinkedList/solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mergeTwoLinkedList/solution.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mergeTwoLinkedList/solution.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mergeTwoLinkedList/solution.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="542" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mergeTwoLinkedList/solution.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="543" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/countIslands/solution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/countIslands/solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/countIslands/solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/kthLargestElement/solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/kthLargestElement/solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/LastStoneWeight/solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/LastStoneWeight/solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/sameBinaryTree/solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/sameBinaryTree/solution.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/FloodFill/solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/FloodFill/solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/FloodFill/solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/FloodFill/solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/uniqueEmails/solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/uniqueEmails/solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/LRUCache/solution.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/LRUCache/solution.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/LRUCache/solution.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="571" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/CountUniquecharacterInSubstring/solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/CountUniquecharacterInSubstring/solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/isMonoTone/solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/isMonoTone/solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="575" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="577" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="579" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="585" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
@@ -1945,6 +2210,22 @@
           </properties>
           <option name="timeStamp" value="514" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java</url>
+          <line>70</line>
+          <properties class="com.LeetCode.Solutions.validParenthesis.solution" method="isValid2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/LastStoneWeight/solution.java</url>
+          <line>22</line>
+          <properties class="com.LeetCode.Solutions.LastStoneWeight.solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mapSum/solution.java</url>
           <line>19</line>
@@ -1967,15 +2248,22 @@
         <watch expression="c1" language="JAVA" />
       </configuration>
       <configuration name="Application">
-        <watch expression="expenditure.get(i)" language="JAVA" />
+        <watch expression="head.val" language="JAVA" />
+        <watch expression="ll.re" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode_JAVA$solution__1_.ic" NAME="solution (1) Coverage Results" MODIFIED="1653146365250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.LeetCode.Solutions.LRUCache.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Git_LeetCode$Questions.ic" NAME="Questions Coverage Results" MODIFIED="1604073915737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.Cerification.Questions.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Git_LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1599624075372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LeetCode_JAVA$solution__3_.ic" NAME="solution (3) Coverage Results" MODIFIED="1651950067257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.LeetCode.Solutions.sameBinaryTree.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode_JAVA$List.ic" NAME="List Coverage Results" MODIFIED="1632249538143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.LeetCode.Solutions.List.*</FILTER>
     </SUITE>
