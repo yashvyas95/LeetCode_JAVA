@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems">
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/BinarySearch/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/CountUniquecharacterInSubstring/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/FloodFill/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/LRUCache/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/LastStoneWeight/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/MinStack/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/TwoSums/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/climbSteps/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/countIslands/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/invertBinaryTree/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isMonoTone/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isTreeBalanced/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/kthLargestElement/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/maxProfit/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/mergeTwoLinkedList/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/reverseLinkedList/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/sameBinaryTree/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/uniqueEmails/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ProjectEuler/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algoDesignQuestion/p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/passwordStrength/solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Anagrams/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Anagrams/Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$compareCityRodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$compareCityRodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RotateLeft/RotateLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RotateLeft/RotateLeft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ThreeSum/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ThreeSum/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkBalancedString/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkBalancedString/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/containsDuplicate/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/containsDuplicate/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/countTriplets/countTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/countTriplets/countTriplets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/AllPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/AllPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/findPermutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/findPermutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxRegion/maxRegion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxRegion/maxRegion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/Anagrams/Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isPalindrome/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/isPalindrome/isPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/validParenthesis/solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,26 +86,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tester">
+  <component name="RunManager" selected="Application.solution">
     <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ProjectEuler.p1" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ProjectEuler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.LRUCache.solution" />
-      <module name="Git_LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.LRUCache.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,6 +126,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.passwordStrength.solution" />
+      <module name="Git_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LeetCode.Solutions.passwordStrength.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.findAllConcatenatedWords.tester" />
       <module name="Git_LeetCode" />
@@ -199,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution" />
         <item itemvalue="Application.tester" />
         <item itemvalue="Application.solution (2)" />
         <item itemvalue="Application.p1" />
         <item itemvalue="Application.solution (5)" />
-        <item itemvalue="Application.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +195,9 @@
       <workItem from="1653145408253" duration="2694000" />
       <workItem from="1653187018146" duration="1098000" />
       <workItem from="1653278892807" duration="10055000" />
+      <workItem from="1653529386524" duration="2315000" />
+      <workItem from="1653590422113" duration="26000" />
+      <workItem from="1653951540347" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Git_LeetCode_Branch_Init">
       <created>1599589572793</created>
@@ -1761,6 +1719,16 @@
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/findAllConcatenatedWords/solution.java</url>
           <line>49</line>
           <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/passwordStrength/solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="587" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/passwordStrength/solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="588" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
