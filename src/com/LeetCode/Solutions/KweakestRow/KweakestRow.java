@@ -1,10 +1,8 @@
 package com.LeetCode.Solutions.KweakestRow;
 
 import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class KweakestRow {
 
@@ -33,9 +31,22 @@ public class KweakestRow {
         return Arrays.copyOfRange(countArray, 0, k);
     }
 
+    public static int[] kWeakestRows2(int[][] mat, int k) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < mat[0].length; i++) {
+            int sum = 0;
+            for (int j : mat[i]) sum += j;
+            map.put(i, sum);
+        }
+        //  map.entrySet().stream().collect(Collectors.groupingBy(Map.Entry.comparingByValue()));
+        map = (HashMap<Integer, Integer>) map.entrySet().stream().sorted(Map.Entry.comparingByValue());
+
+        return null;
+    }
+
     public static void main(String[] args) {
         int[][] s = new int[][]{{1, 1, 0, 0, 0}, {1, 1, 1, 1, 0}, {1, 0, 0, 0, 0}, {1, 1, 0, 0, 0}, {1, 1, 1, 1, 1}};
-        var result = kWeakestRows(s, 3);
+        var result = kWeakestRows2(s, 3);
         for (int a : result) {
             System.out.println(a);
         }
