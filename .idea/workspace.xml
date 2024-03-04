@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems">
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/RatInaMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/findCircleNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/orangeRotten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/biweeklyContest/biweekly125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/NumLaser/numLasers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/constrainedSubsetSum/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/flattenList/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/parellelcourses3/parellelcourses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/LeafComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/MaxVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/StringAppend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/findDifferenceArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff_hw/hw0/hw0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KweakestRow/KweakestRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KweakestRow/KweakestRow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -500,7 +484,28 @@
       <option name="project" value="LOCAL" />
       <updated>1697469712449</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="LeetCode - Practice Problems">
+      <created>1709573964369</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1709573964369</updated>
+    </task>
+    <task id="LOCAL-00039" summary="LeetCode - Practice Problems">
+      <created>1709573977592</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1709573977592</updated>
+    </task>
+    <task id="LOCAL-00040" summary="LeetCode - Practice Problems">
+      <created>1709574050678</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1709574050678</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2047,17 +2052,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java</url>
-          <line>50</line>
+          <line>47</line>
           <option name="timeStamp" value="673" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java</url>
-          <line>43</line>
+          <line>41</line>
           <option name="timeStamp" value="674" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java</url>
-          <line>66</line>
+          <line>63</line>
           <option name="timeStamp" value="675" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -2067,7 +2072,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BackTracking/RatInaMaze.java</url>
-          <line>23</line>
+          <line>26</line>
           <option name="timeStamp" value="678" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -2077,23 +2082,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/biweeklyContest/biweekly125.java</url>
-          <line>22</line>
+          <line>21</line>
           <option name="timeStamp" value="682" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
-          <line>24</line>
+          <line>26</line>
           <option name="timeStamp" value="686" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
-          <line>43</line>
+          <line>45</line>
           <option name="timeStamp" value="689" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="692" />
+          <line>13</line>
+          <option name="timeStamp" value="693" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="694" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="695" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
@@ -2602,7 +2617,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BackTracking/RatInaMaze.java</url>
-          <line>21</line>
+          <line>24</line>
           <properties class="BackTracking.RatInaMaze" method="recurse">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

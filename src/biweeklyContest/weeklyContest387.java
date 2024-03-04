@@ -9,8 +9,10 @@ public class weeklyContest387 {
         int[][] grid = new int[][]{{1, 1, 2}, {1, 1, 0}, {0, 1, 0}};
         int[][] g = new int[][]{{7, 6, 3}, {6, 6, 1}};
         int k = 18;
-        int res = sol2.countSubmatrices(g, k);
-        System.out.println(res);
+        //int res = sol2.countSubmatrices(g, k);
+        //System.out.println(res);
+        int[] nums = new int[]{5, 14, 3, 1, 2};
+        int[] res = resultArray2(nums);
     }
 
     //https://leetcode.com/contest/weekly-contest-387/problems/minimum-operations-to-write-the-letter-y-on-a-grid/
@@ -91,6 +93,7 @@ public class weeklyContest387 {
         }
     }
 
+    //----------*********************************************-------------------------
     //https://leetcode.com/contest/weekly-contest-387/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/
     public static class sol2 {
 
@@ -115,5 +118,73 @@ public class weeklyContest387 {
             }
             return res;
         }
+    }
+
+    //----------*********************************************-------------------------
+    // https://leetcode.com/contest/weekly-contest-387/problems/distribute-elements-into-two-arrays-i/
+    public static int[] resultArray(int[] nums) {
+        ArrayDeque<Integer> stck = new ArrayDeque<Integer>();
+        ArrayDeque<Integer> stck2 = new ArrayDeque<Integer>();
+        stck.add(nums[0]);
+        stck2.add(nums[1]);
+        for (int i = 2; i < nums.length; i++) {
+            if (stck.peekLast() > stck2.peekLast())
+                stck.add(nums[i]);
+            else
+                stck2.add(nums[i]);
+        }
+        stck.addAll(stck2);
+        int[] rs = new int[stck.size()];
+        int index = 0;
+        for (Integer i : stck)
+            rs[index++] = i;
+        return rs;
+    }
+
+    //----------*********************************************-------------------------
+    //https://leetcode.com/contest/weekly-contest-387/problems/distribute-elements-into-two-arrays-ii/
+    public static int[] resultArray2(int[] nums) {
+        ArrayDeque<Integer> s1 = new ArrayDeque<>();
+        ArrayDeque<Integer> s2 = new ArrayDeque<>();
+        s1.add(nums[0]);
+        s2.add(nums[1]);
+        for (int i = 2; i < nums.length; i++) {
+            if (greaterCount(getPrimitive(s1), nums[i]) > greaterCount(getPrimitive(s2), nums[i])) {
+                s1.add(nums[i]);
+            } else if (greaterCount(getPrimitive(s1), nums[i]) == greaterCount(getPrimitive(s2), nums[i])) {
+                if (s1.size() <= s2.size())
+                    s1.add(nums[i]);
+                else
+                    s2.add(nums[i]);
+            } else
+                s2.add(nums[i]);
+        }
+        s1.addAll(s2);
+        return getPrimitive(s1);
+    }
+
+    public static int[] getPrimitive(ArrayDeque<Integer> st) {
+        int[] res = new int[st.size()];
+        int index = 0;
+        for (Integer i : st)
+            res[index++] = i;
+        return res;
+    }
+
+    public static int greaterCount(int[] nums, int peek) {
+        Arrays.sort(nums);
+        int count = 0;
+        int low = 0;
+        int high = nums.length;
+        while (low < high) {
+            int mid = low + high / 2;
+            if (nums[mid] < peek)
+                low = mid;
+            else if (nums[mid] > peek)
+                high = mid;
+            else if (nums[mid] == peek)
+                return nums.length - mid;
+        }
+        return count;
     }
 }
