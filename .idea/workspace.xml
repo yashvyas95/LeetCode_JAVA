@@ -5,354 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16f9373e-58f7-461b-aa3e-3dd2975e8be3" name="Default Changelist" comment="LeetCode - Practice Problems">
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/RemoveColoredPieces/removeColoredPieces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/ReverseWordsInString3/reverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/findDifference/findDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/pascaslTriangle2/pascalTriangle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/subString/subString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/RatInaMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/findCircleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/orangeRotten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/biweeklyContest/biweekly125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/NumLaser/numLasers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/constrainedSubsetSum/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/flattenList/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/parellelcourses3/parellelcourses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/LeafComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/MaxVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/StringAppend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode75/findDifferenceArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jeff_hw/hw0/hw0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git_LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Git_LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/UsingPrimitiveAndWrapperClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/UsingPrimitiveAndWrapperClasses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/UsingStringNStringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/UsingStringNStringBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/operatorsPromotionNCasting$1x.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/operatorsPromotionNCasting$1x.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/operatorsPromotionNCasting$1y.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/operatorsPromotionNCasting$1y.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/operatorsPromotionNCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/ONE/operatorsPromotionNCasting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/forLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/forLoops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/loops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/switchLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/switchLoops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/variableHiding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/THREE/variableHiding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/AmazingClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/AmazingClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/HomeOffice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/HomeOffice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/InnerClassInsideMethod$1Enumerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/InnerClassInsideMethod$1Enumerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/InnerClassInsideMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/InnerClassInsideMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Interface$InterfacesVariablesImplicityAccessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Interface$InterfacesVariablesImplicityAccessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Interface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Interfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Interfaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/house.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/house.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/office.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/office.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/overLoadingMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/overLoadingMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/overRidingNPolymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/CHAPTER/TWO/overRidingNPolymorphism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Climb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Climb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Panda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Panda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Questions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Questions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Questions2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Questions2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Ski.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/Ski.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1$ComplexMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1$ComplexMath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1$Math.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1$Math.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1$Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1$Q2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10$Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10$Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10$GasElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10$GasElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10$Oxgyen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10$Oxgyen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e13$child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e13$child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e13$parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e13$parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14$D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e15$DragonException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e15$DragonException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e15$Lair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e15$Lair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e19$Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e19$Target.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e2$checkInterfaceMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e2$checkInterfaceMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e28$Hammer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e28$Hammer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e28$Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e28$Tool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e3$House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e3$House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e3$Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e3$Room.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e30$Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e30$Bus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e30$Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e30$Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e31$child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e31$child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e31$parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e31$parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e34$Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e34$Bus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e34$Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e34$Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e36$ExamAnswers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e36$ExamAnswers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e36$TestAnswers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e36$TestAnswers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e38$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e38$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e38$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e38$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e39$child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e39$child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e39$parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e39$parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e39.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e4$child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e4$child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e4$parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e4$parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e40.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e41$Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e41$Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e41$Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e41$Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e41.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e42$Dayoff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e42$Dayoff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e42.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Dayoff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Dayoff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Questions2$Deep$Deeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Questions2$Deep$Deeper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Questions2$Deep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Questions2$Deep.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Questions2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43$Questions2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e43.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$Questions2$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$Questions2$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$Questions2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$Questions2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44$b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e44.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a$sail$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a$sail$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a$sail$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a$sail$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a$sail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a$sail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45$a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e45.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e46$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e46$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e46$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e46$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e46.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship$Sail$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship$Sail$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship$Sail$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship$Sail$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship$Sail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship$Sail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47$Ship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e47.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48$Danger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48$Danger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48$Oak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48$Oak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48$Problems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48$Problems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e48.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49$HasHardShell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49$HasHardShell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49$Tortoise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49$Tortoise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49$canBurrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49$canBurrow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e49.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e5$Remember.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e5$Remember.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50$Alex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50$Alex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50$Micheal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50$Micheal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50$Twins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50$Twins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e50.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51$Enum_Method_OverRideChecking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e51.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e52$AddNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e52$AddNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e52$Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e52$Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e52.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e53$Bottle$Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e53$Bottle$Insert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e53$Bottle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e53$Bottle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e54$News.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e54$News.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e54.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e54.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e55.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e55.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e56.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e57.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e57.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e58$Lifeguard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e58$Lifeguard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e58$Tourist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e58$Tourist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e58.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e58.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e59.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e59.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e6$Baseball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e6$Baseball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e60.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e60.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e61.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e61.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e62.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e62.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e63.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e63.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e64.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e64.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e65.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e66.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e66.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e67.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e67.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e68.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e68.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e69.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e69.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e70.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e70.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e71.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e71.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e72.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e72.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e73$Ballot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e73$Ballot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e73.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e73.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$Implementing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$Implementing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$PaperPrintException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$PaperPrintException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$PrintException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$PrintException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9$Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/e9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/skichile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Cerification/Questions/skichile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$Jump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$Jump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$Orca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$Orca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$Whale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$Whale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Citrus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Citrus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Gala.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Gala.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Orange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Tangerine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five$Tangerine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$five.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$one$Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$one$Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$one$Stork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$one$Stork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$one.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$one.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$six.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$six.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three$BlackRhino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three$BlackRhino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three$Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three$Mammal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three$Rhino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three$Rhino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$three.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$two$Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$two$Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$two$Stork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$two$Stork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts$two.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/AbstractClasses/abstractClassesConcepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$one$Days.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$one$Days.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$one.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$one.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$two$Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$two$Animals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts$two.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Enumeration/EnumerationConcepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$Lion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$Roar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$Roar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$isEngertic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$isEngertic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$isTired.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one$isTired.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$one.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException$two.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$CustomException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$MultiCatch$one.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$MultiCatch$one.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$MultiCatch$two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$MultiCatch$two.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$MultiCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts$MultiCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Exceptions/Exceptions$Concepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/File/FileConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/File/FileConcepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Interfaces$Lambdas/InterfaceConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Interfaces$Lambdas/InterfaceConcepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ComplexCalculation$PowerCalculatingThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ComplexCalculation$PowerCalculatingThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ComplexCalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ComplexCalculation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ThreadConcepts$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ThreadConcepts$MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ThreadConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Threads/ThreadConcepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Variables/accessingInnerClassVariables$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Variables/accessingInnerClassVariables$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Variables/accessingInnerClassVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Variables/accessingInnerClassVariables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Variables/variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/Concepts/Variables/variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/AcitivityNotification/activityNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/AcitivityNotification/activityNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Anagrams/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Anagrams/Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/AreaCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BFS/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BFS/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryLongestZero/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryLongestZero/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeHeight/Solution$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeHeight/Solution$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeHeight/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeHeight/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/BinaryTreeInOrderTraversal/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/CountInversion/countInversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/CountInversion/countInversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/DesignHashSet/DesignHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/DesignHashSet/DesignHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/Fraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/FractionAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/FractionAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/MixedFraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Fractions/MixedFraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Nearest_Clone/solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$compareCityRodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result$compareCityRodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Graph_Rodes/solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/ArrayManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/ArrayManipulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/FlippingBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/FlippingBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/LeftRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/LeftRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/MatrixHourGlass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/MatrixHourGlass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/MinSwaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/MinSwaps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/SherlockValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/SherlockValid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/SherlockandAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/SherlockandAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/Stringprefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/Stringprefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/WonderLandQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/WonderLandQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/alternatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/alternatingCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/candies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/candies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/checkMangazine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/checkMangazine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/comString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/comString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/comparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/comparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/countSwaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/countSwaps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/fibonacciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/fibonacciSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/greedyFlorist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/greedyFlorist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/jumpingOnCloud.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/jumpingOnCloud.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/makeAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/makeAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/markAndToys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/markAndToys.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/minMaxriddle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/minMaxriddle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/pairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/pairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/repeatingString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/repeatingString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/stringAbbrevation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/stringAbbrevation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/stringValidity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/stringValidity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/swapNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/swapNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/tripleSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/tripleSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/twoStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HackerTest/twoStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HourGlass/HourGlass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/HourGlass/HourGlass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/IsBinaryTree/IsBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Issubsquence/IsSubSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Issubsquence/IsSubSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KthLargest/kthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KthLargest/kthLargest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KweakestRow/KweakestRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/KweakestRow/KweakestRow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/LongestCommonPrefx/longestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/LongestCommonPrefx/longestCommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MakeSumDivisible/MakeSumDivisible.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MakeSumDivisible/MakeSumDivisible.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MaxArraySum/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MaxArraySum/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinAbsDiff/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinAbsDiff/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinDepthBinaryTree/MinDepthBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinTime/MinTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/MinTime/MinTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/NumeralsRoman/NumeralsRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/NumeralsRoman/NumeralsRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RecursiveSum/RecursiveSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RomanNumerals/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RomanNumerals/RomanNumerals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RotateLeft/RotateLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/RotateLeft/RotateLeft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TagContentExtractor/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TagContentExtractor/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ThreeSum/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/ThreeSum/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TraversalPreOrder/TraversalPreOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/TwoStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/TwoStacks/TwoStacks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/UserActiveMinutes/UserActiveMinutes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/UserActiveMinutes/UserActiveMinutes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkBalancedString/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkBalancedString/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkRecord/checkRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/checkRecord/checkRecord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/companyNameSubsetList/subsetCompanyName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/companyNameSubsetList/subsetCompanyName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/containsDuplicate/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/containsDuplicate/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/countTriplets/countTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/countTriplets/countTriplets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/County.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/County.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/County_Sorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/County_Sorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/ZipCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/ZipCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/ZipCode2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/ZipCode2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/ZipCode_County_Sorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/ZipCode_County_Sorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/dirtyPincodes/solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/AllPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/AllPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/findPermutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPermutations/findPermutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/findPrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/goodPairs/goodPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/goodPairs/goodPairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/intersectionTwoArrays/interSectionTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/intersectionTwoArrays/interSectionTwoArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isMatch/isMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isMatch/isMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isPalindrome/isPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isValidSudoku/isValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/isValidSudoku/isValidSudoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/makeMaxNumber/makeMaxNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/makeMaxNumber/makeMaxNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/mapSum/MapSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/mapSum/MapSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/mapSum/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/mapSum/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxRegion/maxRegion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxRegion/maxRegion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxWater/maxWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/maxWater/maxWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/minSwaps/minSwaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/minSwaps/minSwaps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/questions/Rainbow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/questions/Rainbow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/repeatedStringMatch/repeatedStringMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/repeatedStringMatch/repeatedStringMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/sameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sameTree/sameTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sum1DArray/sum1DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sum1DArray/sum1DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sum_3/Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/sum_3/Sum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/LeetCode/Solutions/validParenthesis/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/algorithms/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/algorithms/Dijkstra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/princeton/Assignments/Assign1/HelloGoodBye.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/princeton/Assignments/Assign1/HelloGoodBye.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/princeton/Assignments/Assign1/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/princeton/Assignments/Assign1/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Git_LeetCode/com/princeton/Assignments/Assign1/RandomWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git_LeetCode/com/princeton/Assignments/Assign1/RandomWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/LeetCode/Solutions/KweakestRow/KweakestRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LeetCode/Solutions/KweakestRow/KweakestRow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,6 +45,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -382,6 +57,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b66df760-7ffb-483a-95a5-a9537b6c502d" />
+        <option name="url" value="https://github.com/yashvyas95/LeetCode_JAVA.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-20/lib/src.zip!/java.base/java/util/HashMap.java" root0="FORCE_HIGHLIGHTING" />
@@ -431,20 +114,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pascalTriangle2">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Git_LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="findDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.findDifference.findDifference" />
+  <component name="RunManager" selected="Application.weeklyContest387">
+    <configuration name="biweekly125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biweeklyContest.biweekly125" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.findDifference.*" />
+          <option name="PATTERN" value="biweeklyContest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pascalTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.pascaslTriangle2.pascalTriangle2" />
+    <configuration name="weeklyContest387 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biweeklyContest.weeklyContest387" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.pascaslTriangle2.*" />
+          <option name="PATTERN" value="biweeklyContest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -465,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeColoredPieces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Solutions.RemoveColoredPieces.removeColoredPieces" />
+    <configuration name="weeklyContest387 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biweeklyContest.weeklyContest387" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Solutions.RemoveColoredPieces.*" />
+          <option name="PATTERN" value="biweeklyContest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution231A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeForce.solution231A" />
+    <configuration name="weeklyContest387 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biweeklyContest.weeklyContest387" />
       <module name="Git_LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeForce.*" />
+          <option name="PATTERN" value="biweeklyContest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weeklyContest387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biweeklyContest.weeklyContest387" />
+      <module name="Git_LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biweeklyContest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pascalTriangle2" />
-        <item itemvalue="Application.removeColoredPieces" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.solution231A" />
-        <item itemvalue="Application.findDifference" />
+        <item itemvalue="Application.weeklyContest387" />
+        <item itemvalue="Application.weeklyContest387 (3)" />
+        <item itemvalue="Application.weeklyContest387 (2)" />
+        <item itemvalue="Application.weeklyContest387 (1)" />
+        <item itemvalue="Application.biweekly125" />
       </list>
     </recent_temporary>
   </component>
@@ -804,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653952044068</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="LeetCode - Practice Problems">
+      <created>1697469712449</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1697469712449</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2329,6 +2025,76 @@
           <line>62</line>
           <option name="timeStamp" value="666" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/parellelcourses3/parellelcourses.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="668" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/parellelcourses3/parellelcourses.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="669" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/parellelcourses3/parellelcourses.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="670" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/parellelcourses3/parellelcourses.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="671" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="673" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="674" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/maximumScore/solution.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="675" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/RatInaMaze.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="676" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/RatInaMaze.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="678" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/biweeklyContest/biweekly125.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="681" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/biweeklyContest/biweekly125.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="682" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="686" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="689" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/biweeklyContest/weeklyContest387.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="692" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/Cerification/Questions/Questions.java</url>
           <line>364</line>
@@ -2824,6 +2590,24 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="627" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/RatInaMaze.java</url>
+          <line>8</line>
+          <properties class="BackTracking.RatInaMaze" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/RatInaMaze.java</url>
+          <line>21</line>
+          <properties class="BackTracking.RatInaMaze" method="recurse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="680" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/com/LeetCode/Solutions/mapSum/solution.java</url>
